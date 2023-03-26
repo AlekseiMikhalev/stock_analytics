@@ -29,8 +29,14 @@ tags_metadata = [
 
 app = FastAPI(title='Stock Analytics Platform', openapi_tags=tags_metadata)
 
-logger.add('info.log', format='Log: [{extra[log_id]}: {time} - {level} - {message}', level='INFO',
-           enqueue=True)
+logger.add('logs/info.log', format='Log: [{extra[log_id]}: {time} - {level} - {message}', level='INFO',
+           colorize=True, enqueue=True)
+logger.add('logs/debug.log', format='Log: [{extra[log_id]}: {time} - {level} - {message}', level='DEBUG',
+           colorize=True, enqueue=True)
+logger.add('logs/trace.log', format='Log: [{extra[log_id]}: {time} - {level} - {message}', level='TRACE',
+           colorize=True, enqueue=True)
+logger.add('logs/error.log', format='Log: [{extra[log_id]}: {time} - {level} - {message}', level='ERROR',
+           colorize=True, enqueue=True)
 
 
 app.include_router(data_fetching_router,

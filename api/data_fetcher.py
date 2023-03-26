@@ -1,9 +1,9 @@
 from fastapi import APIRouter, Depends
 from configuration.config import DataFetchingService, ServerSettings
-from db_config.data_fetching_db import AsynSessionFactory
+from db_config.data_fetching_db import AsyncSessionFactory
 from repository.data_fetching.data_fetcher import DataFetcher
 from models.data.data_fetching_models import StockData
-from models.request.data_fetching_request import DataFetchingReq
+from models.request.data_fetching_request import DataFetchingReq, InsertDataReq
 
 
 router = APIRouter()
@@ -27,13 +27,36 @@ async def root(config: DataFetchingService = Depends(build_config),
             }
 
 
+@router.get('/stock-data/list')
+async def list_stock_data():
+    async with AsyncSessionFactory() as session:
+        async with session.begin():
+            data_fetcher = DataFetcher(session)
+            return await data_fetcher.get_all_stock_data()
+
+
+@router.get('/stock-data/{id}')
+async def get_one_stock_data(id: int):
+    async with AsyncSessionFactory() as session:
+        async with session.begin():
+            data_fetcher = DataFetcher(session)
+            return await data_fetcher.get_one_stock_data(id)
+
+
+@router.get('/stock-data/{stock_symbol}')
+async def fetch_stock_data_from_source(stock_symbol: str):
+    async with AsyncSessionFactory() as session:
+        async with session.begin():
+            data_fetcher = DataFetcher(session)
+            return await data_fetcher.fetch_stock_data(stock_symbol)
+
+
 @router.post('/stock-data')
-async def insert_stock_data(req: DataFetchingReq):
-    async with AsynSessionFactory() as session:
+async def insert_stock_data(req: InsertDataReq):
+    async with AsyncSessionFactory() as session:
         async with session.begin():
             data_fetcher = DataFetcher(session)
             stock_data = StockData(
-                id=req.id,
                 symbol=req.symbol,
                 price=req.price,
                 volume=req.volume,
@@ -44,32 +67,16 @@ async def insert_stock_data(req: DataFetchingReq):
 
 @router.patch('/stock-data')
 async def update_stock_data(id: int, req: DataFetchingReq):
-    async with AsynSessionFactory() as session:
+    async with AsyncSessionFactory() as session:
         async with session.begin():
             data_fetcher = DataFetcher(session)
             stock_data_dict = req.dict(exclude_unset=True)
             return await data_fetcher.update_stock_data(id, stock_data_dict)
 
 
-@router.get('/stock-data/list')
-async def list_stock_data():
-    async with AsynSessionFactory() as session:
-        async with session.begin():
-            data_fetcher = DataFetcher(session)
-            return await data_fetcher.get_all_stock_data()
-
-
-@router.get('/stock-data/{id}')
-async def get_one_stock_data(id: int):
-    async with AsynSessionFactory() as session:
-        async with session.begin():
-            data_fetcher = DataFetcher(session)
-            return await data_fetcher.get_one_stock_data(id)
-
-
 @router.delete('/stock-data/{id}')
 async def delete_stock_data(id: int):
-    async with AsynSessionFactory() as session:
+    async with AsyncSessionFactory() as session:
         async with session.begin():
             data_fetcher = DataFetcher(session)
             return await data_fetcher.delete_stock_data(id)

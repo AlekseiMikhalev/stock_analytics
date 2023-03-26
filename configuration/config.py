@@ -1,12 +1,21 @@
+from numpy import dot
 from pydantic import BaseSettings
 from datetime import date
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 class DataFetchingService(BaseSettings):
     application: str = 'Data Fetching Service'
     webmaster: str = 'mikhalev.aleksei1@gmail.com'
     created: date = '2023-03-20'
+    data_source_api_config = {
+        'session': True,
+        'api_key': os.getenv('DATA_SOURCE_API_KEY')
+    }
+    database_url: str = os.getenv('DATABASE_URL')
 
 
 class DataProcessingService(BaseSettings):

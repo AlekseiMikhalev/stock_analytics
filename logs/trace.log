@@ -1,0 +1,183 @@
+Log: [c20f9e23-79bf-4557-b5df-c89c05b8cbe7: 2023-03-25T11:16:09.871461+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [c20f9e23-79bf-4557-b5df-c89c05b8cbe7: 2023-03-25T11:16:10.581563+0300 - ERROR - Request to /data-fetching/stock-data/list failed: {ex}
+Log: [c20f9e23-79bf-4557-b5df-c89c05b8cbe7: 2023-03-25T11:16:10.582778+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [45cb2c19-501a-4c79-8ccd-d054868ecd9d: 2023-03-25T11:26:27.893907+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [45cb2c19-501a-4c79-8ccd-d054868ecd9d: 2023-03-25T11:26:33.591245+0300 - ERROR - Request to /data-fetching/stock-data/list failed: {ex}
+Log: [45cb2c19-501a-4c79-8ccd-d054868ecd9d: 2023-03-25T11:26:33.591712+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [de491fee-b7c2-4f19-8e86-832f3ebc23c8: 2023-03-25T11:28:00.032563+0300 - INFO - Request to access /
+Log: [de491fee-b7c2-4f19-8e86-832f3ebc23c8: 2023-03-25T11:28:00.034457+0300 - INFO - Successfully accessed /
+Log: [6dd6f7bb-a813-4862-97f6-05b8cd79f90a: 2023-03-25T11:28:00.607658+0300 - INFO - Request to access /favicon.ico
+Log: [6dd6f7bb-a813-4862-97f6-05b8cd79f90a: 2023-03-25T11:28:00.608759+0300 - INFO - Successfully accessed /favicon.ico
+Log: [a9903e9c-e631-4d08-b4ed-e5a3bc02d027: 2023-03-25T11:28:04.386642+0300 - INFO - Request to access /data-fetching
+Log: [a9903e9c-e631-4d08-b4ed-e5a3bc02d027: 2023-03-25T11:28:04.387933+0300 - INFO - Successfully accessed /data-fetching
+Log: [2327904b-eb64-421c-90dd-64bf03f13532: 2023-03-25T11:28:04.394932+0300 - INFO - Request to access /data-fetching/
+Log: [2327904b-eb64-421c-90dd-64bf03f13532: 2023-03-25T11:28:04.398414+0300 - INFO - Successfully accessed /data-fetching/
+Log: [efd3fea4-0cd4-4cbd-9327-160835d1b63c: 2023-03-25T11:28:16.796620+0300 - INFO - Request to access /data-fetching/stock-data
+Log: [efd3fea4-0cd4-4cbd-9327-160835d1b63c: 2023-03-25T11:28:16.798331+0300 - INFO - Successfully accessed /data-fetching/stock-data
+Log: [3dac7414-ad85-4d09-b6e1-6c887ec37209: 2023-03-25T11:28:21.766561+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [3dac7414-ad85-4d09-b6e1-6c887ec37209: 2023-03-25T11:28:27.373483+0300 - ERROR - Request to /data-fetching/stock-data/list failed: {ex}
+Log: [3dac7414-ad85-4d09-b6e1-6c887ec37209: 2023-03-25T11:28:27.374113+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [9c2c73b0-0990-46c5-9bf8-5f8f37bd0568: 2023-03-25T11:29:02.354558+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [9c2c73b0-0990-46c5-9bf8-5f8f37bd0568: 2023-03-25T11:29:03.148830+0300 - ERROR - Request to /data-fetching/stock-data/list failed: {ex}
+Log: [9c2c73b0-0990-46c5-9bf8-5f8f37bd0568: 2023-03-25T11:29:03.149252+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [f0c47265-d551-4c0d-9f30-fea9afcf4cf2: 2023-03-25T11:29:40.621789+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [f0c47265-d551-4c0d-9f30-fea9afcf4cf2: 2023-03-25T11:29:41.333861+0300 - ERROR - Request to /data-fetching/stock-data/list failed: {ex}
+Log: [f0c47265-d551-4c0d-9f30-fea9afcf4cf2: 2023-03-25T11:29:41.334280+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [6ce66d03-765d-4b46-a786-fe72116bae21: 2023-03-25T11:29:41.992035+0300 - INFO - Request to access /favicon.ico
+Log: [6ce66d03-765d-4b46-a786-fe72116bae21: 2023-03-25T11:29:41.993350+0300 - INFO - Successfully accessed /favicon.ico
+Log: [cdee7030-f2ee-42c0-a275-752594f1addc: 2023-03-25T11:30:50.791643+0300 - INFO - Request to access /data-fetching/stock-data
+Log: [cdee7030-f2ee-42c0-a275-752594f1addc: 2023-03-25T11:30:50.862673+0300 - INFO - Successfully accessed /data-fetching/stock-data
+Log: [c556e480-dbfb-4b1c-9a58-4728c59f5cb2: 2023-03-25T11:31:21.564173+0300 - INFO - Request to access /data-fetching/stock-data
+Log: [c556e480-dbfb-4b1c-9a58-4728c59f5cb2: 2023-03-25T11:31:21.576327+0300 - INFO - Successfully accessed /data-fetching/stock-data
+Log: [aaf08985-12cf-40bb-aaea-d6716d67a0c1: 2023-03-25T11:31:28.953724+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [aaf08985-12cf-40bb-aaea-d6716d67a0c1: 2023-03-25T11:31:29.569225+0300 - ERROR - Request to /data-fetching/stock-data/list failed: {ex}
+Log: [aaf08985-12cf-40bb-aaea-d6716d67a0c1: 2023-03-25T11:31:29.569882+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [803f9188-e7e9-427c-8c38-4f3044ffeaaf: 2023-03-25T11:31:47.124287+0300 - INFO - Request to access /data-fetching/stock-data/2
+Log: [803f9188-e7e9-427c-8c38-4f3044ffeaaf: 2023-03-25T11:31:47.834058+0300 - ERROR - Request to /data-fetching/stock-data/2 failed: {ex}
+Log: [803f9188-e7e9-427c-8c38-4f3044ffeaaf: 2023-03-25T11:31:47.834878+0300 - INFO - Successfully accessed /data-fetching/stock-data/2
+Log: [7adf95ca-c035-4ce7-a89d-38f18342580c: 2023-03-25T11:32:19.982373+0300 - INFO - Request to access /data-fetching/stock-data/2
+Log: [7adf95ca-c035-4ce7-a89d-38f18342580c: 2023-03-25T11:32:19.990806+0300 - INFO - Successfully accessed /data-fetching/stock-data/2
+Log: [33ca2411-4dde-40cf-b2a9-c93c2ab7b9db: 2023-03-25T11:34:41.930508+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [33ca2411-4dde-40cf-b2a9-c93c2ab7b9db: 2023-03-25T11:34:42.631230+0300 - ERROR - Request to /data-fetching/stock-data/list failed: {ex}
+Log: [33ca2411-4dde-40cf-b2a9-c93c2ab7b9db: 2023-03-25T11:34:42.632532+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [d5fb6a82-5762-43fc-a013-2486416d9340: 2023-03-25T11:34:52.873453+0300 - INFO - Request to access /data-fetching/stock-data
+Log: [d5fb6a82-5762-43fc-a013-2486416d9340: 2023-03-25T11:34:52.925305+0300 - INFO - Successfully accessed /data-fetching/stock-data
+Log: [e77b2211-94b7-48e2-bfae-ae3c6c3da1c2: 2023-03-25T11:35:32.590964+0300 - INFO - Request to access /data-fetching/stock-data
+Log: [e77b2211-94b7-48e2-bfae-ae3c6c3da1c2: 2023-03-25T11:35:32.602239+0300 - INFO - Successfully accessed /data-fetching/stock-data
+Log: [24429b93-579c-489d-ba58-7ae9afaa9124: 2023-03-25T11:35:44.807193+0300 - INFO - Request to access /data-fetching/stock-data/2
+Log: [24429b93-579c-489d-ba58-7ae9afaa9124: 2023-03-25T11:35:45.403177+0300 - ERROR - Request to /data-fetching/stock-data/2 failed: {ex}
+Log: [24429b93-579c-489d-ba58-7ae9afaa9124: 2023-03-25T11:35:45.403937+0300 - INFO - Successfully accessed /data-fetching/stock-data/2
+Log: [5603024c-e7be-4b2c-83d3-2a13960dbf81: 2023-03-25T11:35:57.527935+0300 - INFO - Request to access /data-fetching/stock-data/0
+Log: [5603024c-e7be-4b2c-83d3-2a13960dbf81: 2023-03-25T11:35:57.535596+0300 - INFO - Successfully accessed /data-fetching/stock-data/0
+Log: [8c3ca830-ea7a-407b-9841-c96c949301d6: 2023-03-25T11:36:08.367240+0300 - INFO - Request to access /data-fetching/stock-data/2
+Log: [8c3ca830-ea7a-407b-9841-c96c949301d6: 2023-03-25T11:36:08.377551+0300 - INFO - Successfully accessed /data-fetching/stock-data/2
+Log: [95b7b68a-44d5-4594-a315-62af9158dde2: 2023-03-25T11:48:45.592399+0300 - INFO - Request to access /data-fetching/stock-data/2
+Log: [95b7b68a-44d5-4594-a315-62af9158dde2: 2023-03-25T11:48:46.323780+0300 - ERROR - Request to /data-fetching/stock-data/2 failed: {ex}
+Log: [95b7b68a-44d5-4594-a315-62af9158dde2: 2023-03-25T11:48:46.324396+0300 - INFO - Successfully accessed /data-fetching/stock-data/2
+Log: [f9f6be44-f16a-418e-b57a-e974c429ad8f: 2023-03-25T11:48:56.785643+0300 - INFO - Request to access /data-fetching/stock-data
+Log: [f9f6be44-f16a-418e-b57a-e974c429ad8f: 2023-03-25T11:48:56.839603+0300 - INFO - Successfully accessed /data-fetching/stock-data
+Log: [f4251298-2205-429b-8679-0c9c7d65bbfb: 2023-03-25T11:49:12.443449+0300 - INFO - Request to access /data-fetching/stock-data/2
+Log: [f4251298-2205-429b-8679-0c9c7d65bbfb: 2023-03-25T11:49:13.145481+0300 - ERROR - Request to /data-fetching/stock-data/2 failed: {ex}
+Log: [f4251298-2205-429b-8679-0c9c7d65bbfb: 2023-03-25T11:49:13.146354+0300 - INFO - Successfully accessed /data-fetching/stock-data/2
+Log: [1dea97e3-c77e-4d1d-904e-1e6c7026f30f: 2023-03-25T11:49:31.070008+0300 - INFO - Request to access /data-fetching/stock-data/2
+Log: [1dea97e3-c77e-4d1d-904e-1e6c7026f30f: 2023-03-25T11:49:31.742940+0300 - ERROR - Request to /data-fetching/stock-data/2 failed: {ex}
+Log: [1dea97e3-c77e-4d1d-904e-1e6c7026f30f: 2023-03-25T11:49:31.743559+0300 - INFO - Successfully accessed /data-fetching/stock-data/2
+Log: [50f694f0-e229-40c0-bf99-112a04a90385: 2023-03-25T11:49:52.949097+0300 - INFO - Request to access /data-fetching/stock-data/2
+Log: [50f694f0-e229-40c0-bf99-112a04a90385: 2023-03-25T11:49:53.544175+0300 - ERROR - Request to /data-fetching/stock-data/2 failed: {ex}
+Log: [50f694f0-e229-40c0-bf99-112a04a90385: 2023-03-25T11:49:53.544669+0300 - INFO - Successfully accessed /data-fetching/stock-data/2
+Log: [f4ae0382-3a18-4873-aa79-2287cd1fc888: 2023-03-25T11:51:48.731393+0300 - INFO - Request to access /data-fetching/stock-data/2
+Log: [f4ae0382-3a18-4873-aa79-2287cd1fc888: 2023-03-25T11:51:49.322758+0300 - ERROR - Request to /data-fetching/stock-data/2 failed: {ex}
+Log: [f4ae0382-3a18-4873-aa79-2287cd1fc888: 2023-03-25T11:51:49.323455+0300 - INFO - Successfully accessed /data-fetching/stock-data/2
+Log: [4e9f9894-4704-4ffc-9404-b0eed9ee4521: 2023-03-25T11:52:07.250372+0300 - INFO - Request to access /data-fetching/stock-data/2
+Log: [4e9f9894-4704-4ffc-9404-b0eed9ee4521: 2023-03-25T11:52:07.820905+0300 - ERROR - Request to /data-fetching/stock-data/2 failed: {ex}
+Log: [4e9f9894-4704-4ffc-9404-b0eed9ee4521: 2023-03-25T11:52:07.822295+0300 - INFO - Successfully accessed /data-fetching/stock-data/2
+Log: [187c5aa6-34ad-4e89-88be-63648ad6131b: 2023-03-25T11:53:28.074712+0300 - INFO - Request to access /data-fetching/stock-data/2
+Log: [187c5aa6-34ad-4e89-88be-63648ad6131b: 2023-03-25T11:53:28.732782+0300 - ERROR - Request to /data-fetching/stock-data/2 failed: {ex}
+Log: [187c5aa6-34ad-4e89-88be-63648ad6131b: 2023-03-25T11:53:28.733496+0300 - INFO - Successfully accessed /data-fetching/stock-data/2
+Log: [bd812b0c-1f11-4090-b028-9590a493a84c: 2023-03-25T11:54:46.751636+0300 - INFO - Request to access /data-fetching/stock-data/2
+Log: [bd812b0c-1f11-4090-b028-9590a493a84c: 2023-03-25T11:54:47.561291+0300 - ERROR - Request to /data-fetching/stock-data/2 failed: {ex}
+Log: [bd812b0c-1f11-4090-b028-9590a493a84c: 2023-03-25T11:54:47.562811+0300 - INFO - Successfully accessed /data-fetching/stock-data/2
+Log: [ced31a2c-7747-4ad2-b6bf-772be0295c71: 2023-03-25T11:57:51.232476+0300 - INFO - Request to access /data-fetching/stock-data/2
+Log: [ced31a2c-7747-4ad2-b6bf-772be0295c71: 2023-03-25T11:57:51.975452+0300 - ERROR - Request to /data-fetching/stock-data/2 failed: {ex}
+Log: [ced31a2c-7747-4ad2-b6bf-772be0295c71: 2023-03-25T11:57:51.976253+0300 - INFO - Successfully accessed /data-fetching/stock-data/2
+Log: [9383a30c-0a56-45fa-9119-39e601822622: 2023-03-25T12:08:06.986242+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [9383a30c-0a56-45fa-9119-39e601822622: 2023-03-25T12:08:07.630362+0300 - ERROR - Request to /data-fetching/stock-data/list failed: {ex}
+Log: [9383a30c-0a56-45fa-9119-39e601822622: 2023-03-25T12:08:07.631472+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [c5c0bd8c-c8e1-4950-87a1-5bac824f7963: 2023-03-25T12:11:41.893682+0300 - INFO - Request to access /data-fetching/stock-data/2
+Log: [c5c0bd8c-c8e1-4950-87a1-5bac824f7963: 2023-03-25T12:11:42.515863+0300 - ERROR - Request to /data-fetching/stock-data/2 failed: {ex}
+Log: [c5c0bd8c-c8e1-4950-87a1-5bac824f7963: 2023-03-25T12:11:42.516303+0300 - INFO - Successfully accessed /data-fetching/stock-data/2
+Log: [c4462c4d-26e1-4c70-844e-5c6915e4c7d4: 2023-03-25T12:12:04.163072+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [c4462c4d-26e1-4c70-844e-5c6915e4c7d4: 2023-03-25T12:12:04.767594+0300 - ERROR - Request to /data-fetching/stock-data/list failed: {ex}
+Log: [c4462c4d-26e1-4c70-844e-5c6915e4c7d4: 2023-03-25T12:12:04.768063+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [10bc37d5-00dd-46a2-8e70-75acb00f3695: 2023-03-25T12:13:04.246508+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [10bc37d5-00dd-46a2-8e70-75acb00f3695: 2023-03-25T12:13:04.302024+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [c11792b5-2dda-4b49-84bd-47c02d67e348: 2023-03-25T12:15:02.903694+0300 - INFO - Request to access /data-fetching/stock-data/2
+Log: [c11792b5-2dda-4b49-84bd-47c02d67e348: 2023-03-25T12:15:02.915954+0300 - INFO - Successfully accessed /data-fetching/stock-data/2
+Log: [8271d78c-8e44-4773-adc2-3396fb090492: 2023-03-25T12:15:18.182962+0300 - INFO - Request to access /data-fetching/stock-data/2
+Log: [8271d78c-8e44-4773-adc2-3396fb090492: 2023-03-25T12:15:18.193568+0300 - INFO - Successfully accessed /data-fetching/stock-data/2
+Log: [32248103-96fa-4b56-a846-72c66696c88f: 2023-03-25T12:15:32.249798+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [32248103-96fa-4b56-a846-72c66696c88f: 2023-03-25T12:15:32.256912+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [06ce88d1-011e-4f14-8e7f-106853ba9a9d: 2023-03-25T12:23:33.957564+0300 - INFO - Request to access /docs
+Log: [06ce88d1-011e-4f14-8e7f-106853ba9a9d: 2023-03-25T12:23:33.959069+0300 - INFO - Successfully accessed /docs
+Log: [ef838cc8-8607-44d7-81fe-72584a890460: 2023-03-25T12:23:34.172470+0300 - INFO - Request to access /openapi.json
+Log: [ef838cc8-8607-44d7-81fe-72584a890460: 2023-03-25T12:23:34.181965+0300 - INFO - Successfully accessed /openapi.json
+Log: [9b27e34f-5ad2-4082-9285-b258eeb27175: 2023-03-25T12:24:00.413432+0300 - INFO - Request to access /data-fetching/stock-data
+Log: [9b27e34f-5ad2-4082-9285-b258eeb27175: 2023-03-25T12:24:00.469227+0300 - INFO - Successfully accessed /data-fetching/stock-data
+Log: [3dfd12cf-3971-4958-983c-7ade003e5f06: 2023-03-25T12:24:23.520721+0300 - INFO - Request to access /data-fetching/stock-data
+Log: [3dfd12cf-3971-4958-983c-7ade003e5f06: 2023-03-25T12:24:23.530108+0300 - INFO - Successfully accessed /data-fetching/stock-data
+Log: [014c2319-3ad2-46eb-b876-804ead170066: 2023-03-25T12:24:46.417534+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [014c2319-3ad2-46eb-b876-804ead170066: 2023-03-25T12:24:46.430036+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [0d61326d-f1f3-4fef-a6d7-dce2659626b4: 2023-03-25T12:26:36.191794+0300 - INFO - Request to access /docs
+Log: [0d61326d-f1f3-4fef-a6d7-dce2659626b4: 2023-03-25T12:26:36.192480+0300 - INFO - Successfully accessed /docs
+Log: [0feab769-5adb-4dc2-8c99-67b9e383fc5b: 2023-03-25T12:26:36.276266+0300 - INFO - Request to access /openapi.json
+Log: [0feab769-5adb-4dc2-8c99-67b9e383fc5b: 2023-03-25T12:26:36.288401+0300 - INFO - Successfully accessed /openapi.json
+Log: [111d0fef-e9f1-418b-9ab7-a24ff22cbacb: 2023-03-25T12:28:00.691470+0300 - INFO - Request to access /docs
+Log: [111d0fef-e9f1-418b-9ab7-a24ff22cbacb: 2023-03-25T12:28:00.693030+0300 - INFO - Successfully accessed /docs
+Log: [91012ef9-eadd-4d81-b2c0-5064c1ed80fa: 2023-03-25T12:28:00.797597+0300 - INFO - Request to access /openapi.json
+Log: [91012ef9-eadd-4d81-b2c0-5064c1ed80fa: 2023-03-25T12:28:00.806500+0300 - INFO - Successfully accessed /openapi.json
+Log: [55d3ac86-7509-4d87-beb1-133483c06ab1: 2023-03-25T12:28:20.199377+0300 - INFO - Request to access /data-fetching/stock-data
+Log: [55d3ac86-7509-4d87-beb1-133483c06ab1: 2023-03-25T12:28:20.254093+0300 - INFO - Successfully accessed /data-fetching/stock-data
+Log: [5b2aafb9-e561-4573-8cc1-b3486fc0be70: 2023-03-25T12:28:58.703905+0300 - INFO - Request to access /docs
+Log: [5b2aafb9-e561-4573-8cc1-b3486fc0be70: 2023-03-25T12:28:58.705036+0300 - INFO - Successfully accessed /docs
+Log: [c9eeac0b-bb3b-4b84-ac26-f573d61a421c: 2023-03-25T12:28:58.778466+0300 - INFO - Request to access /openapi.json
+Log: [c9eeac0b-bb3b-4b84-ac26-f573d61a421c: 2023-03-25T12:28:58.794383+0300 - INFO - Successfully accessed /openapi.json
+Log: [b43f62c3-243b-490b-8334-306273546cfd: 2023-03-25T12:37:53.047352+0300 - INFO - Request to access /docs
+Log: [b43f62c3-243b-490b-8334-306273546cfd: 2023-03-25T12:37:53.049099+0300 - INFO - Successfully accessed /docs
+Log: [4cd4afbb-24aa-42aa-ad73-6d603421be1c: 2023-03-25T12:37:53.248034+0300 - INFO - Request to access /openapi.json
+Log: [4cd4afbb-24aa-42aa-ad73-6d603421be1c: 2023-03-25T12:37:53.261408+0300 - INFO - Successfully accessed /openapi.json
+Log: [ff6a13c2-d8ea-41d7-8ef8-cbf0fdecde1d: 2023-03-25T12:38:39.696838+0300 - INFO - Request to access /docs
+Log: [ff6a13c2-d8ea-41d7-8ef8-cbf0fdecde1d: 2023-03-25T12:38:39.699087+0300 - INFO - Successfully accessed /docs
+Log: [b258b153-ffb7-42fc-9f52-cd15017c3742: 2023-03-25T12:38:39.794308+0300 - INFO - Request to access /openapi.json
+Log: [b258b153-ffb7-42fc-9f52-cd15017c3742: 2023-03-25T12:38:39.802259+0300 - INFO - Successfully accessed /openapi.json
+Log: [79f52d0b-9936-41b0-8893-713c25a77939: 2023-03-25T12:39:27.352719+0300 - INFO - Request to access /docs
+Log: [79f52d0b-9936-41b0-8893-713c25a77939: 2023-03-25T12:39:27.355102+0300 - INFO - Successfully accessed /docs
+Log: [c2156429-4118-4b75-a59c-90819f36c1ff: 2023-03-25T12:39:27.455937+0300 - INFO - Request to access /openapi.json
+Log: [c2156429-4118-4b75-a59c-90819f36c1ff: 2023-03-25T12:39:27.465965+0300 - INFO - Successfully accessed /openapi.json
+Log: [7edc7242-5014-4cee-b5b6-f00e69e847de: 2023-03-25T12:39:32.335198+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [7edc7242-5014-4cee-b5b6-f00e69e847de: 2023-03-25T12:39:32.393874+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [e7f81a9e-9bd6-4acc-a677-434a6676dc1c: 2023-03-25T12:40:18.523071+0300 - INFO - Request to access /data-fetching/stock-data
+Log: [e7f81a9e-9bd6-4acc-a677-434a6676dc1c: 2023-03-25T12:40:18.534493+0300 - INFO - Successfully accessed /data-fetching/stock-data
+Log: [525f74ad-ff93-4636-92ce-0a51d670827c: 2023-03-25T12:40:28.335852+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [525f74ad-ff93-4636-92ce-0a51d670827c: 2023-03-25T12:40:28.343485+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [5d0afed7-ea91-450b-acfa-8f09d3235afb: 2023-03-25T12:41:19.519496+0300 - INFO - Request to access /data-fetching/stock-data/1
+Log: [5d0afed7-ea91-450b-acfa-8f09d3235afb: 2023-03-25T12:41:19.531564+0300 - INFO - Successfully accessed /data-fetching/stock-data/1
+Log: [4e20e845-b0e8-4a3d-8a1d-9317419ffab0: 2023-03-25T12:44:56.951936+0300 - INFO - Request to access /data-fetching/stock-data/1
+Log: [4e20e845-b0e8-4a3d-8a1d-9317419ffab0: 2023-03-25T12:44:57.005898+0300 - ERROR - Request to /data-fetching/stock-data/1 failed: {ex}
+Log: [4e20e845-b0e8-4a3d-8a1d-9317419ffab0: 2023-03-25T12:44:57.007633+0300 - INFO - Successfully accessed /data-fetching/stock-data/1
+Log: [2e7ead56-3e81-4020-869f-2131acabe6d6: 2023-03-25T12:45:24.103662+0300 - INFO - Request to access /data-fetching/stock-data/1
+Log: [2e7ead56-3e81-4020-869f-2131acabe6d6: 2023-03-25T12:45:24.159945+0300 - ERROR - Request to /data-fetching/stock-data/1 failed: {ex}
+Log: [2e7ead56-3e81-4020-869f-2131acabe6d6: 2023-03-25T12:45:24.160721+0300 - INFO - Successfully accessed /data-fetching/stock-data/1
+Log: [4d824a68-6b82-4801-a480-59ea5d3c523d: 2023-03-25T12:45:28.783115+0300 - INFO - Request to access /docs
+Log: [4d824a68-6b82-4801-a480-59ea5d3c523d: 2023-03-25T12:45:28.783841+0300 - INFO - Successfully accessed /docs
+Log: [68d13f65-41b7-4132-aa62-caabc27d282d: 2023-03-25T12:45:28.986361+0300 - INFO - Request to access /openapi.json
+Log: [68d13f65-41b7-4132-aa62-caabc27d282d: 2023-03-25T12:45:29.000848+0300 - INFO - Successfully accessed /openapi.json
+Log: [71f41669-5ba6-4b60-859e-73d93dae7e27: 2023-03-25T12:45:36.497904+0300 - INFO - Request to access /data-fetching/stock-data/1
+Log: [71f41669-5ba6-4b60-859e-73d93dae7e27: 2023-03-25T12:45:36.506650+0300 - ERROR - Request to /data-fetching/stock-data/1 failed: {ex}
+Log: [71f41669-5ba6-4b60-859e-73d93dae7e27: 2023-03-25T12:45:36.508722+0300 - INFO - Successfully accessed /data-fetching/stock-data/1
+Log: [5c047220-d27b-4aeb-b15d-da4dbace0205: 2023-03-25T12:46:30.895624+0300 - INFO - Request to access /data-fetching/stock-data/1
+Log: [5c047220-d27b-4aeb-b15d-da4dbace0205: 2023-03-25T12:46:30.944894+0300 - INFO - Successfully accessed /data-fetching/stock-data/1
+Log: [c81aa064-88ac-48d2-919a-f965fb01bee5: 2023-03-25T12:48:39.319394+0300 - INFO - Request to access /data-fetching/stock-data/1
+Log: [c81aa064-88ac-48d2-919a-f965fb01bee5: 2023-03-25T12:48:39.370759+0300 - ERROR - Request to /data-fetching/stock-data/1 failed: {ex}
+Log: [c81aa064-88ac-48d2-919a-f965fb01bee5: 2023-03-25T12:48:39.371916+0300 - INFO - Successfully accessed /data-fetching/stock-data/1
+Log: [d65361a9-045a-443d-9885-b79111f1d26c: 2023-03-25T12:48:54.758961+0300 - INFO - Request to access /data-fetching/stock-data/1
+Log: [d65361a9-045a-443d-9885-b79111f1d26c: 2023-03-25T12:48:54.820025+0300 - ERROR - Request to /data-fetching/stock-data/1 failed: {ex}
+Log: [d65361a9-045a-443d-9885-b79111f1d26c: 2023-03-25T12:48:54.821453+0300 - INFO - Successfully accessed /data-fetching/stock-data/1
+Log: [84713d49-c2c1-41e2-94cb-2755ed2bc5ac: 2023-03-25T12:50:03.818321+0300 - INFO - Request to access /data-fetching/stock-data/1
+Log: [84713d49-c2c1-41e2-94cb-2755ed2bc5ac: 2023-03-25T12:50:03.867577+0300 - INFO - Successfully accessed /data-fetching/stock-data/1
+Log: [142bdb3b-948c-42f4-954e-1a9392337b31: 2023-03-25T12:50:40.503821+0300 - INFO - Request to access /data-fetching/stock-data/1
+Log: [142bdb3b-948c-42f4-954e-1a9392337b31: 2023-03-25T12:50:40.558651+0300 - ERROR - Request to /data-fetching/stock-data/1 failed: {ex}
+Log: [142bdb3b-948c-42f4-954e-1a9392337b31: 2023-03-25T12:50:40.559865+0300 - INFO - Successfully accessed /data-fetching/stock-data/1
+Log: [dd959e25-3820-4a8d-844e-32f2719bb8ad: 2023-03-25T12:51:00.836647+0300 - INFO - Request to access /data-fetching/stock-data/1
+Log: [dd959e25-3820-4a8d-844e-32f2719bb8ad: 2023-03-25T12:51:00.890658+0300 - ERROR - Request to /data-fetching/stock-data/1 failed: {ex}
+Log: [dd959e25-3820-4a8d-844e-32f2719bb8ad: 2023-03-25T12:51:00.891577+0300 - INFO - Successfully accessed /data-fetching/stock-data/1
+Log: [64664ac8-70de-43bd-96a9-6dbd73ad4968: 2023-03-25T12:54:41.843165+0300 - INFO - Request to access /data-fetching/stock-data/1
+Log: [64664ac8-70de-43bd-96a9-6dbd73ad4968: 2023-03-25T12:54:41.895960+0300 - ERROR - Request to /data-fetching/stock-data/1 failed: {ex}
+Log: [64664ac8-70de-43bd-96a9-6dbd73ad4968: 2023-03-25T12:54:41.896854+0300 - INFO - Successfully accessed /data-fetching/stock-data/1
+Log: [e2c2f0d9-d2dc-442c-aca3-d5779dc7d2fc: 2023-03-25T12:55:54.970119+0300 - INFO - Request to access /data-fetching/stock-data/1
+Log: [e2c2f0d9-d2dc-442c-aca3-d5779dc7d2fc: 2023-03-25T12:55:55.020061+0300 - INFO - Successfully accessed /data-fetching/stock-data/1
+Log: [94fa472c-493b-42e7-8e32-4b6a11a4d74e: 2023-03-26T07:02:16.623804+0300 - INFO - Request to access /docs
+Log: [94fa472c-493b-42e7-8e32-4b6a11a4d74e: 2023-03-26T07:02:16.625485+0300 - INFO - Successfully accessed /docs
+Log: [a279be9c-ec5f-4abd-988d-7a8e3375e60b: 2023-03-26T07:02:16.844775+0300 - INFO - Request to access /openapi.json
+Log: [a279be9c-ec5f-4abd-988d-7a8e3375e60b: 2023-03-26T07:02:16.852229+0300 - INFO - Successfully accessed /openapi.json
+Log: [e51de9f8-c4e3-459e-abad-dc1ee3e6cb8f: 2023-03-26T07:02:26.347728+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [e51de9f8-c4e3-459e-abad-dc1ee3e6cb8f: 2023-03-26T07:02:26.431722+0300 - INFO - Successfully accessed /data-fetching/stock-data/list

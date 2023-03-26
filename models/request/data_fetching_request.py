@@ -2,9 +2,12 @@ from pydantic import BaseModel
 from datetime import datetime
 
 
-class DataFetchingReq(BaseModel):
-    id: int
+class InsertDataReq(BaseModel):
     symbol: str
     price: float
     volume: int
     date: datetime
+
+
+class DataFetchingReq(InsertDataReq):
+    id: int
