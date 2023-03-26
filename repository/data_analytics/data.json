@@ -1,0 +1,3327 @@
+{
+  "TICKER_METADATA": {
+    "ticker": "AAPL",
+    "name": "Apple Inc",
+    "description": "Apple Inc. (Apple) designs, manufactures and markets mobile communication and media devices, personal computers, and portable digital music players, and a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications. The Company's products and services include iPhone, iPad, Mac, iPod, Apple TV, a portfolio of consumer and professional software applications, the iOS and OS X operating systems, iCloud, and a variety of accessory, service and support offerings. The Company also delivers digital content and applications through the iTunes Store, App StoreSM, iBookstoreSM, and Mac App Store. The Company distributes its products worldwide through its retail stores, online stores, and direct sales force, as well as through third-party cellular network carriers, wholesalers, retailers, and value-added resellers. In February 2012, the Company acquired app-search engine Chomp.",
+    "startDate": "1980-12-12",
+    "endDate": "2023-03-24",
+    "exchangeCode": "NASDAQ"
+  },
+  "TICKER_PRICE": [
+    {
+      "adjClose": 160.25,
+      "adjHigh": 160.34,
+      "adjLow": 157.85,
+      "adjOpen": 158.86,
+      "adjVolume": 59256343,
+      "close": 160.25,
+      "date": "2023-03-24T00:00:00+00:00",
+      "divCash": 0.0,
+      "high": 160.34,
+      "low": 157.85,
+      "open": 158.86,
+      "splitFactor": 1.0,
+      "volume": 59256343
+    }
+  ],
+  "TICKER_HISTORICAL_PRICES": [
+    {
+      "date": "2017-08-01T00:00:00.000Z",
+      "close": 150.05,
+      "high": 150.22,
+      "low": 148.41,
+      "open": 149.1,
+      "volume": 24725526,
+      "adjClose": 35.2987598763,
+      "adjHigh": 35.3387518068,
+      "adjLow": 34.9129553698,
+      "adjOpen": 35.0752755585,
+      "adjVolume": 98902104,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-02T00:00:00.000Z",
+      "close": 157.14,
+      "high": 159.75,
+      "low": 156.16,
+      "open": 159.28,
+      "volume": 69222793,
+      "adjClose": 36.9666586269,
+      "adjHigh": 37.5806523841,
+      "adjLow": 36.7361169096,
+      "adjOpen": 37.4700864585,
+      "adjVolume": 276891172,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-03T00:00:00.000Z",
+      "close": 155.57,
+      "high": 157.21,
+      "low": 155.02,
+      "open": 157.05,
+      "volume": 26000738,
+      "adjClose": 36.5973213859,
+      "adjHigh": 36.9831258924,
+      "adjLow": 36.4679357282,
+      "adjOpen": 36.9454864283,
+      "adjVolume": 104002952,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-04T00:00:00.000Z",
+      "close": 156.39,
+      "high": 157.4,
+      "low": 155.69,
+      "open": 156.07,
+      "volume": 20349532,
+      "adjClose": 36.7902236391,
+      "adjHigh": 37.0278227559,
+      "adjLow": 36.6255509839,
+      "adjOpen": 36.714944711,
+      "adjVolume": 81398128,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-07T00:00:00.000Z",
+      "close": 158.81,
+      "high": 158.92,
+      "low": 156.6701,
+      "open": 157.06,
+      "volume": 21870321,
+      "adjClose": 37.3595205328,
+      "adjHigh": 37.3853976644,
+      "adjLow": 36.8561162259,
+      "adjOpen": 36.9478388948,
+      "adjVolume": 87481284,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-08T00:00:00.000Z",
+      "close": 160.08,
+      "high": 161.83,
+      "low": 158.27,
+      "open": 158.6,
+      "volume": 35775675,
+      "adjClose": 37.6582837787,
+      "adjHigh": 38.0699654167,
+      "adjLow": 37.2324873417,
+      "adjOpen": 37.3101187363,
+      "adjVolume": 143102700,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-09T00:00:00.000Z",
+      "close": 161.059998,
+      "high": 161.27,
+      "low": 159.11,
+      "open": 159.26,
+      "volume": 25640394,
+      "adjClose": 37.8888250255,
+      "adjHigh": 37.9382272926,
+      "adjLow": 37.4300945279,
+      "adjOpen": 37.4653815255,
+      "adjVolume": 102561576,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-10T00:00:00.000Z",
+      "close": 155.32,
+      "high": 160.0,
+      "low": 154.63,
+      "open": 159.9,
+      "volume": 39081017,
+      "adjClose": 36.686715113,
+      "adjHigh": 37.7921350636,
+      "adjLow": 36.5237365305,
+      "adjOpen": 37.7685149792,
+      "adjVolume": 156324068,
+      "divCash": 0.63,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-11T00:00:00.000Z",
+      "close": 157.48,
+      "high": 158.5728,
+      "low": 156.07,
+      "open": 156.6,
+      "volume": 25943187,
+      "adjClose": 37.1969089364,
+      "adjHigh": 37.4550292188,
+      "adjLow": 36.8638657461,
+      "adjOpen": 36.9890521935,
+      "adjVolume": 103772748,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-14T00:00:00.000Z",
+      "close": 159.85,
+      "high": 160.21,
+      "low": 158.75,
+      "open": 159.32,
+      "volume": 21754810,
+      "adjClose": 37.756704937,
+      "adjHigh": 37.8417372409,
+      "adjLow": 37.4968840084,
+      "adjOpen": 37.6315184896,
+      "adjVolume": 87019240,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-15T00:00:00.000Z",
+      "close": 161.6,
+      "high": 162.195,
+      "low": 160.14,
+      "open": 160.66,
+      "volume": 27936774,
+      "adjClose": 38.1700564143,
+      "adjHigh": 38.3105959165,
+      "adjLow": 37.8252031818,
+      "adjOpen": 37.9480276208,
+      "adjVolume": 111747096,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-16T00:00:00.000Z",
+      "close": 160.95,
+      "high": 162.51,
+      "low": 160.15,
+      "open": 161.94,
+      "volume": 27321761,
+      "adjClose": 38.0165258656,
+      "adjHigh": 38.3849991824,
+      "adjLow": 37.8275651902,
+      "adjOpen": 38.2503647013,
+      "adjVolume": 109287044,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-17T00:00:00.000Z",
+      "close": 157.86,
+      "high": 160.71,
+      "low": 157.84,
+      "open": 160.52,
+      "volume": 26925694,
+      "adjClose": 37.2866652571,
+      "adjHigh": 37.959837663,
+      "adjLow": 37.2819412403,
+      "adjOpen": 37.9149595026,
+      "adjVolume": 107702776,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-18T00:00:00.000Z",
+      "close": 157.5,
+      "high": 159.5,
+      "low": 156.72,
+      "open": 157.86,
+      "volume": 27012525,
+      "adjClose": 37.2016329532,
+      "adjHigh": 37.6740346415,
+      "adjLow": 37.0173962948,
+      "adjOpen": 37.2866652571,
+      "adjVolume": 108050100,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-21T00:00:00.000Z",
+      "close": 157.21,
+      "high": 157.89,
+      "low": 155.1101,
+      "open": 157.5,
+      "volume": 26145653,
+      "adjClose": 37.1331347084,
+      "adjHigh": 37.2937512825,
+      "adjLow": 36.6371365558,
+      "adjOpen": 37.2016329532,
+      "adjVolume": 104582612,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-22T00:00:00.000Z",
+      "close": 159.78,
+      "high": 160.0,
+      "low": 158.02,
+      "open": 158.23,
+      "volume": 21297812,
+      "adjClose": 37.7401708779,
+      "adjHigh": 37.7921350636,
+      "adjLow": 37.3244573922,
+      "adjOpen": 37.3740595695,
+      "adjVolume": 85191248,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-23T00:00:00.000Z",
+      "close": 159.98,
+      "high": 160.47,
+      "low": 158.88,
+      "open": 159.07,
+      "volume": 19198189,
+      "adjClose": 37.7874110467,
+      "adjHigh": 37.9031494604,
+      "adjLow": 37.5275901182,
+      "adjOpen": 37.5724682786,
+      "adjVolume": 76792756,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-24T00:00:00.000Z",
+      "close": 159.27,
+      "high": 160.74,
+      "low": 158.55,
+      "open": 160.43,
+      "volume": 19029621,
+      "adjClose": 37.6197084474,
+      "adjHigh": 37.9669236883,
+      "adjLow": 37.4496438396,
+      "adjOpen": 37.8937014266,
+      "adjVolume": 76118484,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-25T00:00:00.000Z",
+      "close": 159.86,
+      "high": 160.56,
+      "low": 159.27,
+      "open": 159.65,
+      "volume": 25015218,
+      "adjClose": 37.7590669454,
+      "adjHigh": 37.9244075363,
+      "adjLow": 37.6197084474,
+      "adjOpen": 37.7094647682,
+      "adjVolume": 100060872,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-28T00:00:00.000Z",
+      "close": 161.47,
+      "high": 162.0,
+      "low": 159.93,
+      "open": 160.14,
+      "volume": 25279674,
+      "adjClose": 38.1393503045,
+      "adjHigh": 38.2645367519,
+      "adjLow": 37.7756010045,
+      "adjOpen": 37.8252031818,
+      "adjVolume": 101118696,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-29T00:00:00.000Z",
+      "close": 162.91,
+      "high": 163.12,
+      "low": 160.0,
+      "open": 160.1,
+      "volume": 29307862,
+      "adjClose": 38.4794795201,
+      "adjHigh": 38.5290816974,
+      "adjLow": 37.7921350636,
+      "adjOpen": 37.815755148,
+      "adjVolume": 117231448,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-30T00:00:00.000Z",
+      "close": 163.35,
+      "high": 163.89,
+      "low": 162.61,
+      "open": 163.8,
+      "volume": 26973946,
+      "adjClose": 38.5834078915,
+      "adjHigh": 38.7109563473,
+      "adjLow": 38.4086192668,
+      "adjOpen": 38.6896982714,
+      "adjVolume": 107895784,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    },
+    {
+      "date": "2017-08-31T00:00:00.000Z",
+      "close": 164.0,
+      "high": 164.52,
+      "low": 163.48,
+      "open": 163.64,
+      "volume": 26412439,
+      "adjClose": 38.7369384402,
+      "adjHigh": 38.8597628792,
+      "adjLow": 38.6141140012,
+      "adjOpen": 38.6519061363,
+      "adjVolume": 105649756,
+      "divCash": 0.0,
+      "splitFactor": 1.0
+    }
+  ],
+  "TICKER_DEFINITIONS": [
+    {
+      "dataCode": "rps",
+      "name": "Revenue Per Share",
+      "description": "Revenue per share",
+      "statementType": "overview",
+      "units": "$"
+    },
+    {
+      "dataCode": "roa",
+      "name": "Return on Assets ROA",
+      "description": "Net Income/Total Assets",
+      "statementType": "overview",
+      "units": "%"
+    },
+    {
+      "dataCode": "assetTurnover",
+      "name": "Asset Turnover",
+      "description": "Revenue over assets",
+      "statementType": "overview",
+      "units": null
+    },
+    {
+      "dataCode": "bookVal",
+      "name": "Book Value",
+      "description": "Book value of the share, assets - liabilities",
+      "statementType": "overview",
+      "units": "$"
+    },
+    {
+      "dataCode": "bvps",
+      "name": "Book Value Per Share",
+      "description": "Book Value per each share",
+      "statementType": "overview",
+      "units": "$"
+    },
+    {
+      "dataCode": "revenue",
+      "name": "Revenue",
+      "description": "Revenue",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "epsDil",
+      "name": "Earnings Per Share Diluted",
+      "description": "EPS for diluted shares",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "netinc",
+      "name": "Net Income",
+      "description": "Net income",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "profitMargin",
+      "name": "Profit Margin",
+      "description": "This field is marked for DEPRECATION. Please use grossMargin instead. Profit Margin is calculated by the (Revenue - COGS)/Revenue",
+      "statementType": "overview",
+      "units": "%"
+    },
+    {
+      "dataCode": "revenueQoQ",
+      "name": "Revenue QoQ Growth",
+      "description": "Revenue Quarter-over-Quarter Growth rate",
+      "statementType": "overview",
+      "units": "%"
+    },
+    {
+      "dataCode": "debtEquity",
+      "name": "Debt to Equity Ratio",
+      "description": "Debt/Equity ratio",
+      "statementType": "overview",
+      "units": ""
+    },
+    {
+      "dataCode": "grossMargin",
+      "name": "Gross Margin",
+      "description": "The margin of good sold, basically how much of the money the company keeps after selling their goods and services. (Rev.-Cost of Rev.)/Rev.",
+      "statementType": "overview",
+      "units": "%"
+    },
+    {
+      "dataCode": "roe",
+      "name": "Return on Equity ROE",
+      "description": "Return on Shareholder's equity; ROE=Net Income/Shareholder's Equity",
+      "statementType": "overview",
+      "units": "%"
+    },
+    {
+      "dataCode": "currentRatio",
+      "name": "Current Ratio",
+      "description": "Ability for a company to pay off its short-term liabilities, Current Assets/Current Liabilities",
+      "statementType": "overview",
+      "units": ""
+    },
+    {
+      "dataCode": "fxRate",
+      "name": "FX Rate",
+      "description": "The exchange rate used for the conversion of foreign currency to USD for non-US companies that do not report in USD.",
+      "statementType": "overview",
+      "units": null
+    },
+    {
+      "dataCode": "sharesBasic",
+      "name": "Shares Outstanding",
+      "description": "Outstanding shares",
+      "statementType": "balanceSheet",
+      "units": ""
+    },
+    {
+      "dataCode": "piotroskiFScore",
+      "name": "Piotroski F-Score",
+      "description": "0-9 point scale to determine strength of company's financial position",
+      "statementType": "overview",
+      "units": null
+    },
+    {
+      "dataCode": "longTermDebtEquity",
+      "name": "Long-term Debt to Equity",
+      "description": "Long term debt to equity",
+      "statementType": "overview",
+      "units": null
+    },
+    {
+      "dataCode": "opMargin",
+      "name": "Operating Margin",
+      "description": "Operating margin, or how much money a company makes on each dollar of revenue. In other words Operating Income/Revenue",
+      "statementType": "overview",
+      "units": "%"
+    },
+    {
+      "dataCode": "epsQoQ",
+      "name": "Earnings Per Share QoQ Growth",
+      "description": "Earnings Per Share Quarter-over-Quarter Growth rate",
+      "statementType": "overview",
+      "units": "%"
+    },
+    {
+      "dataCode": "peRatio",
+      "name": "Price to Earnings Ratio",
+      "description": "P/E Ratio",
+      "statementType": "overview",
+      "units": null
+    },
+    {
+      "dataCode": "shareswaDil",
+      "name": "Weighted Average Shares Diluted",
+      "description": "Used to calculated diluted EPS. Considers all outstanding common stock plus all instruments that can be converted into shares (like stock options) ",
+      "statementType": "incomeStatement",
+      "units": ""
+    },
+    {
+      "dataCode": "eps",
+      "name": "Earnings Per Share",
+      "description": "Earnings per basic share (not diluted)",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "ppeq",
+      "name": "Property, Plant & Equipment",
+      "description": "A component of assets representing the total amount of marketable and non-marketable securties, loans receivable and other invested assets.",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "ebitda",
+      "name": "EBITDA",
+      "description": "EBITDA is a non-GAAP accounting metric that is widely used when assessing the performance of companies, calculated by adding Depreciation/Amortization back to Earnings before interest and taxes",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "freeCashFlow",
+      "name": "Free Cash Flow",
+      "description": "Operating Cash Flow - Capex, How much cash is left over after reinvesting it in the business. Used as a measure to evaluate financial performance of a company",
+      "statementType": "cashFlow",
+      "units": "$"
+    },
+    {
+      "dataCode": "issrepayDebt",
+      "name": "Issuance or Repayment of Debt Securities",
+      "description": "Representing the net cash inflow (outflow) from issuance (repayment) of debt securities.",
+      "statementType": "cashFlow",
+      "units": "$"
+    },
+    {
+      "dataCode": "capex",
+      "name": "Capital Expenditure",
+      "description": "Money uses to upgrade or acquire property or materials to maintain and increase size",
+      "statementType": "cashFlow",
+      "units": "$"
+    },
+    {
+      "dataCode": "rnd",
+      "name": "Research & Development",
+      "description": "The aggregate costs incurred in a planned search or critical investigation aimed at discovery of new knowledge with the hope that such knowledge will be useful in developing a new product or service.",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "sga",
+      "name": "Selling, General & Administrative",
+      "description": "The aggregate total costs related to selling a firm's product and services, as well as all other general and administrative expenses. Direct selling expenses (for example, credit, warranty, and advertising) are expenses that can be directly linked to the sale of specific products. Indirect selling expenses are expenses that cannot be directly linked to the sale of specific products, for example telephone expenses, Internet, and postal charges. General and administrative expenses include salaries",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "investmentsCurrent",
+      "name": "Current Investments",
+      "description": "The current portion of Investments, reported if the company operates a classified balance sheet that segments current and non-current assets.",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "payDiv",
+      "name": "Payment of Dividends & Other Cash Distributions",
+      "description": "Representing dividends and dividend equivalents paid on common stock and restricted stock units.",
+      "statementType": "cashFlow",
+      "units": "$"
+    },
+    {
+      "dataCode": "investmentsAcqDisposals",
+      "name": "Investment Acquisitions & Disposals",
+      "description": "A component of cash flow from financing, representing the net cash inflow (outflow) associated with the acquisition & disposal of investments, including marketable securities and loan originations.",
+      "statementType": "cashFlow",
+      "units": "$"
+    },
+    {
+      "dataCode": "taxLiabilities",
+      "name": "Tax Liabilities",
+      "description": "A component of liabilities representing outstanding tax liabilities.",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "ncff",
+      "name": "Net Cash Flow from Financing",
+      "description": "Net Cash flow from financing activities like issuing stock or debt minus dividends or acquiring debt",
+      "statementType": "cashFlow",
+      "units": "$"
+    },
+    {
+      "dataCode": "opinc",
+      "name": "Operating Income",
+      "description": "Operating income is a measure of financial performance before the deduction of interest expense, tax expenses and other Non-Operating items. It is calculated as gross profit minus operating expenses",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "nonControllingInterests",
+      "name": "Net Income to Non-Controlling Interests",
+      "description": "The portion of income which is attributable to non-controlling interest shareholders, subtracted from consolidated income in order to obtain net income",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "assetsNonCurrent",
+      "name": "Other Assets",
+      "description": "Assets that cannot be easily converted into cash and where the value of the item will be realized in a year",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "taxAssets",
+      "name": "Tax Assets",
+      "description": "A component of assets representing tax assets and receivables.",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "issrepayEquity",
+      "name": "Issuance or Repayment of Equity",
+      "description": "Representing the net cash inflow (outflow) from issuance (repayment) of equity.",
+      "statementType": "cashFlow",
+      "units": "$"
+    },
+    {
+      "dataCode": "ncfx",
+      "name": "Effect of Exchange Rate Changes on Cash",
+      "description": "Cash flow from exchange rate changes",
+      "statementType": "cashFlow",
+      "units": "$"
+    },
+    {
+      "dataCode": "ncfo",
+      "name": "Net Cash Flow from Operations",
+      "description": "Cash flow generating from a company's operations",
+      "statementType": "cashFlow",
+      "units": "$"
+    },
+    {
+      "dataCode": "grossProfit",
+      "name": "Gross Profit",
+      "description": "Aggregate revenue [REVENUE] less cost of revenue [COR] directly attributable to the revenue generation activity.",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "debtCurrent",
+      "name": "Current Debt",
+      "description": "Current debt - debt due within a year",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "retainedEarnings",
+      "name": "Accumulated Retained Earnings or Deficit",
+      "description": "A component of Shareholder's Equity representing the cumulative amount of the entities undistributed earnings or deficit. May only be reported annually by certain companies, rather than quarterly.",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "liabilitiesNonCurrent",
+      "name": "Other Liabilities",
+      "description": "Long-term liabilities (like debt) that are not due within a year",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "sbcomp",
+      "name": "Shared-based Compensation",
+      "description": "A component of cash flow from operating activities, representing the total amount of noncash, equity-based employee remuneration. This may include the value of stock or unit options, amortization of restricted stock or units, and adjustment for officers' compensation. As noncash, this element is an add back when calculating net cash generated by operating activities using the indirect method.",
+      "statementType": "cashFlow",
+      "units": "$"
+    },
+    {
+      "dataCode": "businessAcqDisposals",
+      "name": "Business Acquisitions & Disposals",
+      "description": "A component of cash flow from investing, representing the net cash inflow (outflow) associated with the acquisition & disposal of businesses, joint-ventures, affiliates, and other named investments.",
+      "statementType": "cashFlow",
+      "units": "$"
+    },
+    {
+      "dataCode": "liabilitiesCurrent",
+      "name": "Current Liabilities",
+      "description": "Debt or liabilities that are due within a year",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "acctRec",
+      "name": "Accounts Receivable",
+      "description": "Amount company will receive based on work already completed and delivered",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "cashAndEq",
+      "name": "Cash and Equivalents",
+      "description": "Cash or assets that can be converted to cash immediately",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "accoci",
+      "name": "Accumulated Other Comprehensive Income",
+      "description": "Unrealized gains and losses - such as items that have changed in value but haven't been bought or sold yet",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "depamor",
+      "name": "Depreciation, Amortization & Accretion",
+      "description": "Depreciation, Amortization, and Accretion",
+      "statementType": "cashFlow",
+      "units": "$"
+    },
+    {
+      "dataCode": "assetsCurrent",
+      "name": "Current Assets",
+      "description": "Assets that can easily be converted to cash and can be used to fund day-to-day operations",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "shareswa",
+      "name": "Weighted Average Shares",
+      "description": "Weighted average shares (undiluted)",
+      "statementType": "incomeStatement",
+      "units": ""
+    },
+    {
+      "dataCode": "investments",
+      "name": "Investments",
+      "description": "A component of assets representing the total amount of marketable and non-marketable securties, loans receivable and other invested assets.",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "prefDVDs",
+      "name": "Preferred Dividends Income Statement Impact",
+      "description": "Impact of dividend on company's preferred shares",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "intangibles",
+      "name": "Intangible Assets",
+      "description": "Goodwill and Intangible Assets",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "opex",
+      "name": "Operating Expenses",
+      "description": "Operating expenses represents the total expenditure on SG&A, R&D and other operating expense items, it excludes cost of revenue.",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "inventory",
+      "name": "Inventory",
+      "description": "A component of Total Assets representing the amount after valuation and reserves of inventory expected to be sold, or consumed within one year or operating cycle, if longer.",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "deposits",
+      "name": "Deposits",
+      "description": "Deposit liabilities, both domestic and international including deposits such as savings deposts",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "ebt",
+      "name": "Earnings before tax",
+      "description": "Revenue - Expenses and excluding tax",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "netMargin",
+      "name": "Net Margin",
+      "description": "Net Profit Margin, or the Net Income as a proportion of Revenue. In other words, Net Income/Revenue",
+      "statementType": "overview",
+      "units": "%"
+    },
+    {
+      "dataCode": "investmentsNonCurrent",
+      "name": "Non-Current Investments",
+      "description": "The non-current portion of investments, reported if the company operates a classified balance sheet that segments current and non-current assets.",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "totalAssets",
+      "name": "Total Assets",
+      "description": "Total assets",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "deferredRev",
+      "name": "Deferred Revenue",
+      "description": "Revenue that was received, but not yet paid out  including sales, license fees, and royalties, but excluding interest income.",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "taxExp",
+      "name": "Tax Expense",
+      "description": "Tax expenses",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "debt",
+      "name": "Total Debt",
+      "description": "Debt",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "costRev",
+      "name": "Cost of Revenue",
+      "description": "The aggregate cost of goods produced and sold and services rendered during the reporting period.",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "acctPay",
+      "name": "Accounts Payable",
+      "description": "Short-term debt the company must pay off within a year",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "ncf",
+      "name": "Net Cash Flow to Change in Cash & Cash Equivalents",
+      "description": "Net Cash flow - Total cash minux liabilities",
+      "statementType": "cashFlow",
+      "units": "$"
+    },
+    {
+      "dataCode": "netIncDiscOps",
+      "name": "Net Income from Discontinued Operations",
+      "description": "Net income from discontinued operations",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "totalLiabilities",
+      "name": "Total Liabilities",
+      "description": "Total Liabilities",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "ncfi",
+      "name": "Net Cash Flow from Investing",
+      "description": "Cash flow from investments made by the company",
+      "statementType": "cashFlow",
+      "units": "$"
+    },
+    {
+      "dataCode": "debtNonCurrent",
+      "name": "Non-Current Debt",
+      "description": "Longer-term debt, typically greater than a year",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "ebit",
+      "name": "Earning Before Interest & Taxes EBIT",
+      "description": "Earning Before Interest & Taxes (EBIT)",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "netIncComStock",
+      "name": "Net Income Common Stock",
+      "description": "Net Income applied to common share holders. Used in calculating EPS (earnings per share).",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "intexp",
+      "name": "Interest Expense",
+      "description": "Interest expense",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "consolidatedIncome",
+      "name": "Consolidated Income",
+      "description": "The portion of profit or loss for the period, net of income taxes, which is attributable to the consolidated entity.",
+      "statementType": "incomeStatement",
+      "units": "$"
+    },
+    {
+      "dataCode": "equity",
+      "name": "Shareholders Equity",
+      "description": "Shareholders Equity",
+      "statementType": "balanceSheet",
+      "units": "$"
+    },
+    {
+      "dataCode": "marketCap",
+      "name": "Market Capitalization",
+      "description": "Size of the company (shares outstanding * share price)",
+      "statementType": "overview",
+      "units": "$"
+    },
+    {
+      "dataCode": "enterpriseVal",
+      "name": "Enterprise Value",
+      "description": "An alternative to marketcap that's the theoretical takeover price of a company (marketcap + debt - cash and cash equivalents)",
+      "statementType": "overview",
+      "units": "$"
+    },
+    {
+      "dataCode": "shareFactor",
+      "name": "Share Factor",
+      "description": "Share factor is a multiplicant in the calculation of [MARKETCAP]. For the overwhelming majority of companies its value will be 1. For American Depository Receipts (ADRs) and companies which have different earnings share for different share classes (eg Berkshire Hathaway - BRKB).",
+      "statementType": "overview",
+      "units": null
+    },
+    {
+      "dataCode": "trailingPEG1Y",
+      "name": "PEG Ratio",
+      "description": "PEG ratio using the trailing 1 year EPS growth rate in the denominator",
+      "statementType": "overview",
+      "units": null
+    },
+    {
+      "dataCode": "pbRatio",
+      "name": "Price to Book Ratio",
+      "description": "Price/Book value per share ratio",
+      "statementType": "overview",
+      "units": null
+    }
+  ],
+  "FUNDAMENTALS_DAILY": [
+    {
+      "date": "2021-01-04T00:00:00.000Z",
+      "marketCap": 2200203196820.0,
+      "enterpriseVal": 2276236196820.0,
+      "peRatio": 34.4158172504,
+      "pbRatio": 33.2236530083,
+      "trailingPEG1Y": 0.9855438576
+    },
+    {
+      "date": "2021-01-05T00:00:00.000Z",
+      "marketCap": 2227406080020.0,
+      "enterpriseVal": 2303439080020.0,
+      "peRatio": 34.8413277025,
+      "pbRatio": 33.6344237742,
+      "trailingPEG1Y": 0.9977289297
+    },
+    {
+      "date": "2021-01-06T00:00:00.000Z",
+      "marketCap": 2152428133200.0,
+      "enterpriseVal": 2228461133200.0,
+      "peRatio": 33.668514519,
+      "pbRatio": 32.5022368507,
+      "trailingPEG1Y": 0.9641438249
+    },
+    {
+      "date": "2021-01-07T00:00:00.000Z",
+      "marketCap": 2225875917840.0,
+      "enterpriseVal": 2301908917840.0,
+      "peRatio": 34.8173927396,
+      "pbRatio": 33.6113179186,
+      "trailingPEG1Y": 0.9970435194
+    },
+    {
+      "date": "2021-01-08T00:00:00.000Z",
+      "marketCap": 2245087954100.0,
+      "enterpriseVal": 2321120954100.0,
+      "peRatio": 35.1179094963,
+      "pbRatio": 33.901424772,
+      "trailingPEG1Y": 1.0056492265
+    },
+    {
+      "date": "2021-01-11T00:00:00.000Z",
+      "marketCap": 2192892421960.0,
+      "enterpriseVal": 2268925421960.0,
+      "peRatio": 34.3014613164,
+      "pbRatio": 33.1132583649,
+      "trailingPEG1Y": 0.9822691195
+    },
+    {
+      "date": "2021-01-12T00:00:00.000Z",
+      "marketCap": 2189832097600.0,
+      "enterpriseVal": 2265865097600.0,
+      "peRatio": 34.2535913906,
+      "pbRatio": 33.0670466538,
+      "trailingPEG1Y": 0.9808982989
+    },
+    {
+      "date": "2021-01-13T00:00:00.000Z",
+      "marketCap": 2225365863780.0,
+      "enterpriseVal": 2301398863780.0,
+      "peRatio": 34.8094144186,
+      "pbRatio": 33.6036159667,
+      "trailingPEG1Y": 0.9968150493
+    },
+    {
+      "date": "2021-01-14T00:00:00.000Z",
+      "marketCap": 2191702295820.0,
+      "enterpriseVal": 2267735295820.0,
+      "peRatio": 34.2828452342,
+      "pbRatio": 33.0952871439,
+      "trailingPEG1Y": 0.9817360226
+    },
+    {
+      "date": "2021-01-15T00:00:00.000Z",
+      "marketCap": 2161609106280.0,
+      "enterpriseVal": 2237642106280.0,
+      "peRatio": 33.8121242966,
+      "pbRatio": 32.6408719842,
+      "trailingPEG1Y": 0.9682562867
+    },
+    {
+      "date": "2021-01-19T00:00:00.000Z",
+      "marketCap": 2173340349660.0,
+      "enterpriseVal": 2249373349660.0,
+      "peRatio": 33.995625679,
+      "pbRatio": 32.818016877,
+      "trailingPEG1Y": 0.973511099
+    },
+    {
+      "date": "2021-01-20T00:00:00.000Z",
+      "marketCap": 2244747918060.0,
+      "enterpriseVal": 2320780918060.0,
+      "peRatio": 35.1125906157,
+      "pbRatio": 33.8962901374,
+      "trailingPEG1Y": 1.0054969131
+    },
+    {
+      "date": "2021-01-21T00:00:00.000Z",
+      "marketCap": 2327036639740.0,
+      "enterpriseVal": 2403069639740.0,
+      "peRatio": 36.3997597331,
+      "pbRatio": 35.1388717042,
+      "trailingPEG1Y": 1.042356756
+    },
+    {
+      "date": "2021-01-22T00:00:00.000Z",
+      "marketCap": 2364440604140.0,
+      "enterpriseVal": 2440473604140.0,
+      "peRatio": 36.9848366047,
+      "pbRatio": 35.7036815073,
+      "trailingPEG1Y": 1.05911123
+    },
+    {
+      "date": "2021-01-25T00:00:00.000Z",
+      "marketCap": 2429897541840.0,
+      "enterpriseVal": 2505930541840.0,
+      "peRatio": 38.00872113,
+      "pbRatio": 36.6920986627,
+      "trailingPEG1Y": 1.0884315596
+    },
+    {
+      "date": "2021-01-26T00:00:00.000Z",
+      "marketCap": 2433977974320.0,
+      "enterpriseVal": 2510010974320.0,
+      "peRatio": 38.0725476978,
+      "pbRatio": 36.7537142776,
+      "trailingPEG1Y": 1.0902593204
+    },
+    {
+      "date": "2021-01-27T00:00:00.000Z",
+      "marketCap": 2415275992120.0,
+      "enterpriseVal": 2491308992120.0,
+      "peRatio": 37.780009262,
+      "pbRatio": 36.4713093761,
+      "trailingPEG1Y": 1.0818820834
+    },
+    {
+      "date": "2021-01-28T00:00:00.000Z",
+      "marketCap": 2301480080640.0,
+      "enterpriseVal": 2377513080640.0,
+      "peRatio": 36.0000012614,
+      "pbRatio": 34.7529608698,
+      "trailingPEG1Y": 1.030909127
+    },
+    {
+      "date": "2021-01-29T00:00:00.000Z",
+      "marketCap": 2215357148160.0,
+      "enterpriseVal": 2291390148160.0,
+      "peRatio": 34.6528570023,
+      "pbRatio": 33.4524817009,
+      "trailingPEG1Y": 0.9923318142
+    },
+    {
+      "date": "2021-02-01T00:00:00.000Z",
+      "marketCap": 2251955197440.0,
+      "enterpriseVal": 2327988197440.0,
+      "peRatio": 35.2253276621,
+      "pbRatio": 34.0051219715,
+      "trailingPEG1Y": 1.0087252921
+    },
+    {
+      "date": "2021-02-02T00:00:00.000Z",
+      "marketCap": 2266225079040.0,
+      "enterpriseVal": 2342258079040.0,
+      "peRatio": 35.4485386992,
+      "pbRatio": 34.2206009761,
+      "trailingPEG1Y": 1.0151172446
+    },
+    {
+      "date": "2021-02-03T00:00:00.000Z",
+      "marketCap": 2248597578240.0,
+      "enterpriseVal": 2324630578240.0,
+      "peRatio": 35.1728074181,
+      "pbRatio": 33.9544210292,
+      "trailingPEG1Y": 1.0072213033
+    },
+    {
+      "date": "2021-02-04T00:00:00.000Z",
+      "marketCap": 2306516509440.0,
+      "enterpriseVal": 2382549509440.0,
+      "peRatio": 36.0787816274,
+      "pbRatio": 34.8290122832,
+      "trailingPEG1Y": 1.0331651102
+    },
+    {
+      "date": "2021-02-05T00:00:00.000Z",
+      "marketCap": 2295940008960.0,
+      "enterpriseVal": 2371973008960.0,
+      "peRatio": 35.9133428588,
+      "pbRatio": 34.6693043151,
+      "trailingPEG1Y": 1.0284275455
+    },
+    {
+      "date": "2021-02-08T00:00:00.000Z",
+      "marketCap": 2298458223360.0,
+      "enterpriseVal": 2374491223360.0,
+      "peRatio": 35.9527330418,
+      "pbRatio": 34.7073300217,
+      "trailingPEG1Y": 1.0295555371
+    },
+    {
+      "date": "2021-02-09T00:00:00.000Z",
+      "marketCap": 2283348936960.0,
+      "enterpriseVal": 2359381936960.0,
+      "peRatio": 35.7163919437,
+      "pbRatio": 34.4791757816,
+      "trailingPEG1Y": 1.0227875875
+    },
+    {
+      "date": "2021-02-10T00:00:00.000Z",
+      "marketCap": 2272940317440.0,
+      "enterpriseVal": 2348973317440.0,
+      "peRatio": 35.5535791872,
+      "pbRatio": 34.3220028606,
+      "trailingPEG1Y": 1.0181252222
+    },
+    {
+      "date": "2021-02-11T00:00:00.000Z",
+      "marketCap": 2268575412480.0,
+      "enterpriseVal": 2344608412480.0,
+      "peRatio": 35.48530287,
+      "pbRatio": 34.2560916357,
+      "trailingPEG1Y": 1.0161700367
+    },
+    {
+      "date": "2021-02-12T00:00:00.000Z",
+      "marketCap": 2272604555520.0,
+      "enterpriseVal": 2348637555520.0,
+      "peRatio": 35.5483271628,
+      "pbRatio": 34.3169327664,
+      "trailingPEG1Y": 1.0179748233
+    },
+    {
+      "date": "2021-02-16T00:00:00.000Z",
+      "marketCap": 2236006506240.0,
+      "enterpriseVal": 2312039506240.0,
+      "peRatio": 34.9758565031,
+      "pbRatio": 33.7642924958,
+      "trailingPEG1Y": 1.0015813453
+    },
+    {
+      "date": "2021-02-17T00:00:00.000Z",
+      "marketCap": 2196554480640.0,
+      "enterpriseVal": 2272587480640.0,
+      "peRatio": 34.3587436359,
+      "pbRatio": 33.1685564243,
+      "trailingPEG1Y": 0.9839094768
+    },
+    {
+      "date": "2021-02-18T00:00:00.000Z",
+      "marketCap": 2177583932160.0,
+      "enterpriseVal": 2253616932160.0,
+      "peRatio": 34.0620042572,
+      "pbRatio": 32.8820961005,
+      "trailingPEG1Y": 0.9754119401
+    },
+    {
+      "date": "2021-02-19T00:00:00.000Z",
+      "marketCap": 2180270027520.0,
+      "enterpriseVal": 2256303027520.0,
+      "peRatio": 34.1040204524,
+      "pbRatio": 32.9226568543,
+      "trailingPEG1Y": 0.9766151311
+    },
+    {
+      "date": "2021-02-22T00:00:00.000Z",
+      "marketCap": 2115300096000.0,
+      "enterpriseVal": 2191333096000.0,
+      "peRatio": 33.0877537306,
+      "pbRatio": 31.9415936216,
+      "trailingPEG1Y": 0.9475129477
+    },
+    {
+      "date": "2021-02-23T00:00:00.000Z",
+      "marketCap": 2112949762560.0,
+      "enterpriseVal": 2188982762560.0,
+      "peRatio": 33.0509895598,
+      "pbRatio": 31.9061029621,
+      "trailingPEG1Y": 0.9464601556
+    },
+    {
+      "date": "2021-02-24T00:00:00.000Z",
+      "marketCap": 2104387833600.0,
+      "enterpriseVal": 2180420833600.0,
+      "peRatio": 32.9170629376,
+      "pbRatio": 31.7768155593,
+      "trailingPEG1Y": 0.9426249841
+    },
+    {
+      "date": "2021-02-25T00:00:00.000Z",
+      "marketCap": 2031191735040.0,
+      "enterpriseVal": 2107224735040.0,
+      "peRatio": 31.772121618,
+      "pbRatio": 30.6715350181,
+      "trailingPEG1Y": 0.9098380282
+    },
+    {
+      "date": "2021-02-26T00:00:00.000Z",
+      "marketCap": 2035724520960.0,
+      "enterpriseVal": 2111757520960.0,
+      "peRatio": 31.8430239474,
+      "pbRatio": 30.7399812902,
+      "trailingPEG1Y": 0.911868413
+    },
+    {
+      "date": "2021-03-01T00:00:00.000Z",
+      "marketCap": 2145350787840.0,
+      "enterpriseVal": 2221383787840.0,
+      "peRatio": 33.5578099146,
+      "pbRatio": 32.3953670548,
+      "trailingPEG1Y": 0.9609736476
+    },
+    {
+      "date": "2021-03-02T00:00:00.000Z",
+      "marketCap": 2100526571520.0,
+      "enterpriseVal": 2176559571520.0,
+      "peRatio": 32.856664657,
+      "pbRatio": 31.7185094757,
+      "trailingPEG1Y": 0.940895397
+    },
+    {
+      "date": "2021-03-03T00:00:00.000Z",
+      "marketCap": 2049154997760.0,
+      "enterpriseVal": 2125187997760.0,
+      "peRatio": 32.0531049235,
+      "pbRatio": 30.9427850592,
+      "trailingPEG1Y": 0.9178843683
+    },
+    {
+      "date": "2021-03-04T00:00:00.000Z",
+      "marketCap": 2016753972480.0,
+      "enterpriseVal": 2092786972480.0,
+      "peRatio": 31.5462845687,
+      "pbRatio": 30.4535209664,
+      "trailingPEG1Y": 0.9033708763
+    },
+    {
+      "date": "2021-03-05T00:00:00.000Z",
+      "marketCap": 2038410616320.0,
+      "enterpriseVal": 2114443616320.0,
+      "peRatio": 31.8850401427,
+      "pbRatio": 30.780542044,
+      "trailingPEG1Y": 0.9130716041
+    },
+    {
+      "date": "2021-03-08T00:00:00.000Z",
+      "marketCap": 1953462850560.0,
+      "enterpriseVal": 2029495850560.0,
+      "peRatio": 30.556277969,
+      "pbRatio": 29.4978082049,
+      "trailingPEG1Y": 0.8750206873
+    },
+    {
+      "date": "2021-03-09T00:00:00.000Z",
+      "marketCap": 2032786604160.0,
+      "enterpriseVal": 2108819604160.0,
+      "peRatio": 31.7970687339,
+      "pbRatio": 30.6956179657,
+      "trailingPEG1Y": 0.9105524228
+    },
+    {
+      "date": "2021-03-10T00:00:00.000Z",
+      "marketCap": 2014235758080.0,
+      "enterpriseVal": 2090268758080.0,
+      "peRatio": 31.5068943857,
+      "pbRatio": 30.4154952597,
+      "trailingPEG1Y": 0.9022428847
+    },
+    {
+      "date": "2021-03-11T00:00:00.000Z",
+      "marketCap": 2047476188160.0,
+      "enterpriseVal": 2123509188160.0,
+      "peRatio": 32.0268448015,
+      "pbRatio": 30.9174345881,
+      "trailingPEG1Y": 0.9171323739
+    },
+    {
+      "date": "2021-03-12T00:00:00.000Z",
+      "marketCap": 2031863258880.0,
+      "enterpriseVal": 2107896258880.0,
+      "peRatio": 31.7826256668,
+      "pbRatio": 30.6816752066,
+      "trailingPEG1Y": 0.9101388259
+    },
+    {
+      "date": "2021-03-15T00:00:00.000Z",
+      "marketCap": 2081556023040.0,
+      "enterpriseVal": 2157589023040.0,
+      "peRatio": 32.5599252783,
+      "pbRatio": 31.432049152,
+      "trailingPEG1Y": 0.9323978602
+    },
+    {
+      "date": "2021-03-16T00:00:00.000Z",
+      "marketCap": 2108081214720.0,
+      "enterpriseVal": 2184114214720.0,
+      "peRatio": 32.974835206,
+      "pbRatio": 31.8325865958,
+      "trailingPEG1Y": 0.9442793718
+    },
+    {
+      "date": "2021-03-17T00:00:00.000Z",
+      "marketCap": 2094482856960.0,
+      "enterpriseVal": 2170515856960.0,
+      "peRatio": 32.7621282177,
+      "pbRatio": 31.6272477797,
+      "trailingPEG1Y": 0.9381882171
+    },
+    {
+      "date": "2021-03-18T00:00:00.000Z",
+      "marketCap": 2023469210880.0,
+      "enterpriseVal": 2099502210880.0,
+      "peRatio": 31.6513250568,
+      "pbRatio": 30.5549228509,
+      "trailingPEG1Y": 0.9063788539
+    },
+    {
+      "date": "2021-03-19T00:00:00.000Z",
+      "marketCap": 2014403639040.0,
+      "enterpriseVal": 2090436639040.0,
+      "peRatio": 31.5095203979,
+      "pbRatio": 30.4180303068,
+      "trailingPEG1Y": 0.9023180841
+    },
+    {
+      "date": "2021-03-22T00:00:00.000Z",
+      "marketCap": 2071483165440.0,
+      "enterpriseVal": 2147516165440.0,
+      "peRatio": 32.4023645462,
+      "pbRatio": 31.2799463252,
+      "trailingPEG1Y": 0.9278858938
+    },
+    {
+      "date": "2021-03-23T00:00:00.000Z",
+      "marketCap": 2057213283840.0,
+      "enterpriseVal": 2133246283840.0,
+      "peRatio": 32.1791535092,
+      "pbRatio": 31.0644673206,
+      "trailingPEG1Y": 0.9214939414
+    },
+    {
+      "date": "2021-03-24T00:00:00.000Z",
+      "marketCap": 2016082448640.0,
+      "enterpriseVal": 2092115448640.0,
+      "peRatio": 31.5357805199,
+      "pbRatio": 30.443380778,
+      "trailingPEG1Y": 0.9030700785
+    },
+    {
+      "date": "2021-03-25T00:00:00.000Z",
+      "marketCap": 2024476496640.0,
+      "enterpriseVal": 2100509496640.0,
+      "peRatio": 31.66708113,
+      "pbRatio": 30.5701331336,
+      "trailingPEG1Y": 0.9068300505
+    },
+    {
+      "date": "2021-03-26T00:00:00.000Z",
+      "marketCap": 2034885116160.0,
+      "enterpriseVal": 2110918116160.0,
+      "peRatio": 31.8298938864,
+      "pbRatio": 30.7273060546,
+      "trailingPEG1Y": 0.9114924158
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "marketCap": null,
+      "enterpriseVal": null,
+      "peRatio": 26.6656853686,
+      "pbRatio": 29.4152059348,
+      "trailingPEG1Y": 0.2216368654
+    },
+    {
+      "date": "2021-03-29T00:00:00.000Z",
+      "marketCap": 2037906973440.0,
+      "enterpriseVal": 2121085973440.0,
+      "peRatio": 26.7052846043,
+      "pbRatio": 29.4588882801,
+      "trailingPEG1Y": 0.2219660019
+    },
+    {
+      "date": "2021-03-30T00:00:00.000Z",
+      "marketCap": 2012892710400.0,
+      "enterpriseVal": 2096071710400.0,
+      "peRatio": 26.3774909305,
+      "pbRatio": 29.0972955333,
+      "trailingPEG1Y": 0.2192414831
+    },
+    {
+      "date": "2021-03-31T00:00:00.000Z",
+      "marketCap": 2050665926400.0,
+      "enterpriseVal": 2133844926400.0,
+      "peRatio": 26.8724813775,
+      "pbRatio": 29.6433248489,
+      "trailingPEG1Y": 0.2233556894
+    },
+    {
+      "date": "2021-04-01T00:00:00.000Z",
+      "marketCap": 2064935808000.0,
+      "enterpriseVal": 2148114808000.0,
+      "peRatio": 27.0594777686,
+      "pbRatio": 29.8496025904,
+      "trailingPEG1Y": 0.2249099451
+    },
+    {
+      "date": "2021-04-05T00:00:00.000Z",
+      "marketCap": 2113621286400.0,
+      "enterpriseVal": 2196800286400.0,
+      "peRatio": 27.6974654558,
+      "pbRatio": 30.5533737084,
+      "trailingPEG1Y": 0.2302126999
+    },
+    {
+      "date": "2021-04-06T00:00:00.000Z",
+      "marketCap": 2118825596160.0,
+      "enterpriseVal": 2202004596160.0,
+      "peRatio": 27.7656641396,
+      "pbRatio": 30.6286044141,
+      "trailingPEG1Y": 0.2307795461
+    },
+    {
+      "date": "2021-04-07T00:00:00.000Z",
+      "marketCap": 2147197478400.0,
+      "enterpriseVal": 2230376478400.0,
+      "peRatio": 28.1374569643,
+      "pbRatio": 31.0387331001,
+      "trailingPEG1Y": 0.2338697722
+    },
+    {
+      "date": "2021-04-08T00:00:00.000Z",
+      "marketCap": 2188496194560.0,
+      "enterpriseVal": 2271675194560.0,
+      "peRatio": 28.6786465196,
+      "pbRatio": 31.6357251519,
+      "trailingPEG1Y": 0.2383679711
+    },
+    {
+      "date": "2021-04-09T00:00:00.000Z",
+      "marketCap": 2232732827520.0,
+      "enterpriseVal": 2315911827520.0,
+      "peRatio": 29.258335332,
+      "pbRatio": 32.2751861505,
+      "trailingPEG1Y": 0.2431861638
+    },
+    {
+      "date": "2021-04-12T00:00:00.000Z",
+      "marketCap": 2203269719040.0,
+      "enterpriseVal": 2286448719040.0,
+      "peRatio": 28.8722427833,
+      "pbRatio": 31.8492832843,
+      "trailingPEG1Y": 0.2399770829
+    },
+    {
+      "date": "2021-04-13T00:00:00.000Z",
+      "marketCap": 2256823745280.0,
+      "enterpriseVal": 2340002745280.0,
+      "peRatio": 29.5740292393,
+      "pbRatio": 32.6234315141,
+      "trailingPEG1Y": 0.2458101132
+    },
+    {
+      "date": "2021-04-14T00:00:00.000Z",
+      "marketCap": 2216532314880.0,
+      "enterpriseVal": 2299711314880.0,
+      "peRatio": 29.0460394292,
+      "pbRatio": 32.041000244,
+      "trailingPEG1Y": 0.2414216264
+    },
+    {
+      "date": "2021-04-15T00:00:00.000Z",
+      "marketCap": 2257998912000.0,
+      "enterpriseVal": 2341177912000.0,
+      "peRatio": 29.5894289421,
+      "pbRatio": 32.6404190928,
+      "trailingPEG1Y": 0.2459381107
+    },
+    {
+      "date": "2021-04-16T00:00:00.000Z",
+      "marketCap": 2252290959360.0,
+      "enterpriseVal": 2335469959360.0,
+      "peRatio": 29.5146303857,
+      "pbRatio": 32.5579079962,
+      "trailingPEG1Y": 0.2453164084
+    },
+    {
+      "date": "2021-04-19T00:00:00.000Z",
+      "marketCap": 2263706864640.0,
+      "enterpriseVal": 2346885864640.0,
+      "peRatio": 29.6642274985,
+      "pbRatio": 32.7229301894,
+      "trailingPEG1Y": 0.246559813
+    },
+    {
+      "date": "2021-04-20T00:00:00.000Z",
+      "marketCap": 2234663458560.0,
+      "enterpriseVal": 2317842458560.0,
+      "peRatio": 29.2836348437,
+      "pbRatio": 32.3030943155,
+      "trailingPEG1Y": 0.2433964455
+    },
+    {
+      "date": "2021-04-21T00:00:00.000Z",
+      "marketCap": 2241210816000.0,
+      "enterpriseVal": 2324389816000.0,
+      "peRatio": 29.3694331879,
+      "pbRatio": 32.3977393969,
+      "trailingPEG1Y": 0.2441095745
+    },
+    {
+      "date": "2021-04-22T00:00:00.000Z",
+      "marketCap": 2215021386240.0,
+      "enterpriseVal": 2298200386240.0,
+      "peRatio": 29.0262398113,
+      "pbRatio": 32.0191590714,
+      "trailingPEG1Y": 0.2412570582
+    },
+    {
+      "date": "2021-04-23T00:00:00.000Z",
+      "marketCap": 2254977054720.0,
+      "enterpriseVal": 2338156054720.0,
+      "peRatio": 29.5498297063,
+      "pbRatio": 32.5967367475,
+      "trailingPEG1Y": 0.2456089742
+    },
+    {
+      "date": "2021-04-26T00:00:00.000Z",
+      "marketCap": 2261692293120.0,
+      "enterpriseVal": 2344871293120.0,
+      "peRatio": 29.637828008,
+      "pbRatio": 32.6938086259,
+      "trailingPEG1Y": 0.2463403886
+    },
+    {
+      "date": "2021-04-27T00:00:00.000Z",
+      "marketCap": 2256152221440.0,
+      "enterpriseVal": 2339331221440.0,
+      "peRatio": 29.5652294091,
+      "pbRatio": 32.6137243262,
+      "trailingPEG1Y": 0.2457369717
+    },
+    {
+      "date": "2021-04-28T00:00:00.000Z",
+      "marketCap": 2242553863680.0,
+      "enterpriseVal": 2325732863680.0,
+      "peRatio": 29.3870328482,
+      "pbRatio": 32.4171537726,
+      "trailingPEG1Y": 0.2442558574
+    },
+    {
+      "date": "2021-04-29T00:00:00.000Z",
+      "marketCap": 2227464985880.0,
+      "enterpriseVal": 2310643985880.0,
+      "peRatio": 29.1893041092,
+      "pbRatio": 32.1990370621,
+      "trailingPEG1Y": 0.2426123978
+    },
+    {
+      "date": "2021-04-30T00:00:00.000Z",
+      "marketCap": 2193755971260.0,
+      "enterpriseVal": 2276934971260.0,
+      "peRatio": 28.7475720572,
+      "pbRatio": 31.7117576579,
+      "trailingPEG1Y": 0.2389408587
+    },
+    {
+      "date": "2021-05-03T00:00:00.000Z",
+      "marketCap": 2211778612740.0,
+      "enterpriseVal": 2294957612740.0,
+      "peRatio": 28.9837456296,
+      "pbRatio": 31.9722832799,
+      "trailingPEG1Y": 0.2409038598
+    },
+    {
+      "date": "2021-05-04T00:00:00.000Z",
+      "marketCap": 2133513623350.0,
+      "enterpriseVal": 2216692623350.0,
+      "peRatio": 27.9581400237,
+      "pbRatio": 30.8409266436,
+      "trailingPEG1Y": 0.2323793457
+    },
+    {
+      "date": "2021-05-05T00:00:00.000Z",
+      "marketCap": 2137685531100.0,
+      "enterpriseVal": 2220864531100.0,
+      "peRatio": 28.0128098321,
+      "pbRatio": 30.9012335005,
+      "trailingPEG1Y": 0.2328337441
+    },
+    {
+      "date": "2021-05-06T00:00:00.000Z",
+      "marketCap": 2165053245940.0,
+      "enterpriseVal": 2248232245940.0,
+      "peRatio": 28.3714437753,
+      "pbRatio": 31.2968464821,
+      "trailingPEG1Y": 0.2358145976
+    },
+    {
+      "date": "2021-05-07T00:00:00.000Z",
+      "marketCap": 2172896432510.0,
+      "enterpriseVal": 2256075432510.0,
+      "peRatio": 28.4742230152,
+      "pbRatio": 31.4102233732,
+      "trailingPEG1Y": 0.2366688666
+    },
+    {
+      "date": "2021-05-10T00:00:00.000Z",
+      "marketCap": 2116825992350.0,
+      "enterpriseVal": 2200004992350.0,
+      "peRatio": 27.7394607901,
+      "pbRatio": 30.5996992158,
+      "trailingPEG1Y": 0.230561752
+    },
+    {
+      "date": "2021-05-11T00:00:00.000Z",
+      "marketCap": 2101139619210.0,
+      "enterpriseVal": 2184318619210.0,
+      "peRatio": 27.5339023104,
+      "pbRatio": 30.3729454337,
+      "trailingPEG1Y": 0.228853214
+    },
+    {
+      "date": "2021-05-12T00:00:00.000Z",
+      "marketCap": 2048740457870.0,
+      "enterpriseVal": 2131919457870.0,
+      "peRatio": 26.8472495167,
+      "pbRatio": 29.6154913104,
+      "trailingPEG1Y": 0.22314597
+    },
+    {
+      "date": "2021-05-13T00:00:00.000Z",
+      "marketCap": 2085453246070.0,
+      "enterpriseVal": 2168632246070.0,
+      "peRatio": 27.3283438308,
+      "pbRatio": 30.1461916515,
+      "trailingPEG1Y": 0.227144676
+    },
+    {
+      "date": "2021-05-14T00:00:00.000Z",
+      "marketCap": 2126838570950.0,
+      "enterpriseVal": 2210017570950.0,
+      "peRatio": 27.8706683303,
+      "pbRatio": 30.7444356725,
+      "trailingPEG1Y": 0.2316523082
+    },
+    {
+      "date": "2021-05-17T00:00:00.000Z",
+      "marketCap": 2107147166370.0,
+      "enterpriseVal": 2190326166370.0,
+      "peRatio": 27.6126268345,
+      "pbRatio": 30.4597873077,
+      "trailingPEG1Y": 0.2295075477
+    },
+    {
+      "date": "2021-05-18T00:00:00.000Z",
+      "marketCap": 2083450730350.0,
+      "enterpriseVal": 2166629730350.0,
+      "peRatio": 27.3021023227,
+      "pbRatio": 30.1172443602,
+      "trailingPEG1Y": 0.2269265648
+    },
+    {
+      "date": "2021-05-19T00:00:00.000Z",
+      "marketCap": 2080780709390.0,
+      "enterpriseVal": 2163959709390.0,
+      "peRatio": 27.2671136453,
+      "pbRatio": 30.0786479718,
+      "trailingPEG1Y": 0.2266357498
+    },
+    {
+      "date": "2021-05-20T00:00:00.000Z",
+      "marketCap": 2124502302610.0,
+      "enterpriseVal": 2207681302610.0,
+      "peRatio": 27.8400532375,
+      "pbRatio": 30.7106638326,
+      "trailingPEG1Y": 0.2313978451
+    },
+    {
+      "date": "2021-05-21T00:00:00.000Z",
+      "marketCap": 2093129556330.0,
+      "enterpriseVal": 2176308556330.0,
+      "peRatio": 27.4289362783,
+      "pbRatio": 30.2571562683,
+      "trailingPEG1Y": 0.2279807691
+    },
+    {
+      "date": "2021-05-24T00:00:00.000Z",
+      "marketCap": 2120997900100.0,
+      "enterpriseVal": 2204176900100.0,
+      "peRatio": 27.7941305985,
+      "pbRatio": 30.6600060727,
+      "trailingPEG1Y": 0.2310161504
+    },
+    {
+      "date": "2021-05-25T00:00:00.000Z",
+      "marketCap": 2117660373900.0,
+      "enterpriseVal": 2200839373900.0,
+      "peRatio": 27.7503947517,
+      "pbRatio": 30.6117605872,
+      "trailingPEG1Y": 0.2306526317
+    },
+    {
+      "date": "2021-05-26T00:00:00.000Z",
+      "marketCap": 2116825992350.0,
+      "enterpriseVal": 2200004992350.0,
+      "peRatio": 27.7394607901,
+      "pbRatio": 30.5996992158,
+      "trailingPEG1Y": 0.230561752
+    },
+    {
+      "date": "2021-05-27T00:00:00.000Z",
+      "marketCap": 2090626411680.0,
+      "enterpriseVal": 2173805411680.0,
+      "peRatio": 27.3961343932,
+      "pbRatio": 30.2209721542,
+      "trailingPEG1Y": 0.22770813
+    },
+    {
+      "date": "2021-05-28T00:00:00.000Z",
+      "marketCap": 2079445698910.0,
+      "enterpriseVal": 2162624698910.0,
+      "peRatio": 27.2496193067,
+      "pbRatio": 30.0593497775,
+      "trailingPEG1Y": 0.2264903423
+    },
+    {
+      "date": "2021-06-01T00:00:00.000Z",
+      "marketCap": 2073938780680.0,
+      "enterpriseVal": 2157117780680.0,
+      "peRatio": 27.1774551595,
+      "pbRatio": 29.9797447264,
+      "trailingPEG1Y": 0.2258905364
+    },
+    {
+      "date": "2021-06-02T00:00:00.000Z",
+      "marketCap": 2086955132860.0,
+      "enterpriseVal": 2170134132860.0,
+      "peRatio": 27.3480249618,
+      "pbRatio": 30.16790212,
+      "trailingPEG1Y": 0.2273082594
+    },
+    {
+      "date": "2021-06-03T00:00:00.000Z",
+      "marketCap": 2061589933740.0,
+      "enterpriseVal": 2144768933740.0,
+      "peRatio": 27.0156325266,
+      "pbRatio": 29.8012364298,
+      "trailingPEG1Y": 0.2245455171
+    },
+    {
+      "date": "2021-06-04T00:00:00.000Z",
+      "marketCap": 2100805866590.0,
+      "enterpriseVal": 2183984866590.0,
+      "peRatio": 27.5295287257,
+      "pbRatio": 30.3681208851,
+      "trailingPEG1Y": 0.2288168621
+    },
+    {
+      "date": "2021-06-07T00:00:00.000Z",
+      "marketCap": 2100972742900.0,
+      "enterpriseVal": 2184151742900.0,
+      "peRatio": 27.5317155181,
+      "pbRatio": 30.3705331594,
+      "trailingPEG1Y": 0.2288350381
+    },
+    {
+      "date": "2021-06-08T00:00:00.000Z",
+      "marketCap": 2114990352940.0,
+      "enterpriseVal": 2198169352940.0,
+      "peRatio": 27.7154060744,
+      "pbRatio": 30.5731641987,
+      "trailingPEG1Y": 0.2303618167
+    },
+    {
+      "date": "2021-06-09T00:00:00.000Z",
+      "marketCap": 2121498529030.0,
+      "enterpriseVal": 2204677529030.0,
+      "peRatio": 27.8006909755,
+      "pbRatio": 30.6672428956,
+      "trailingPEG1Y": 0.2310706782
+    },
+    {
+      "date": "2021-06-10T00:00:00.000Z",
+      "marketCap": 2104477145410.0,
+      "enterpriseVal": 2187656145410.0,
+      "peRatio": 27.5776381571,
+      "pbRatio": 30.4211909192,
+      "trailingPEG1Y": 0.2292167327
+    },
+    {
+      "date": "2021-06-11T00:00:00.000Z",
+      "marketCap": 2125169807850.0,
+      "enterpriseVal": 2208348807850.0,
+      "peRatio": 27.8488004069,
+      "pbRatio": 30.7203129297,
+      "trailingPEG1Y": 0.2314705488
+    },
+    {
+      "date": "2021-06-14T00:00:00.000Z",
+      "marketCap": 2177402092880.0,
+      "enterpriseVal": 2260581092880.0,
+      "peRatio": 28.5332664083,
+      "pbRatio": 31.4753547787,
+      "trailingPEG1Y": 0.2371596169
+    },
+    {
+      "date": "2021-06-15T00:00:00.000Z",
+      "marketCap": 2163384482840.0,
+      "enterpriseVal": 2246563482840.0,
+      "peRatio": 28.349575852,
+      "pbRatio": 31.2727237393,
+      "trailingPEG1Y": 0.2356328383
+    },
+    {
+      "date": "2021-06-16T00:00:00.000Z",
+      "marketCap": 2171895174650.0,
+      "enterpriseVal": 2255074174650.0,
+      "peRatio": 28.4611022611,
+      "pbRatio": 31.3957497275,
+      "trailingPEG1Y": 0.236559811
+    },
+    {
+      "date": "2021-06-17T00:00:00.000Z",
+      "marketCap": 2199262889490.0,
+      "enterpriseVal": 2282441889490.0,
+      "peRatio": 28.8197362043,
+      "pbRatio": 31.7913627091,
+      "trailingPEG1Y": 0.2395406646
+    },
+    {
+      "date": "2021-06-18T00:00:00.000Z",
+      "marketCap": 2177068340260.0,
+      "enterpriseVal": 2260247340260.0,
+      "peRatio": 28.5288928236,
+      "pbRatio": 31.4705302301,
+      "trailingPEG1Y": 0.237123265
+    },
+    {
+      "date": "2021-06-21T00:00:00.000Z",
+      "marketCap": 2207773581300.0,
+      "enterpriseVal": 2290952581300.0,
+      "peRatio": 28.9312626135,
+      "pbRatio": 31.9143886973,
+      "trailingPEG1Y": 0.2404676373
+    },
+    {
+      "date": "2021-06-22T00:00:00.000Z",
+      "marketCap": 2235808801380.0,
+      "enterpriseVal": 2318987801380.0,
+      "peRatio": 29.2986437261,
+      "pbRatio": 32.319650776,
+      "trailingPEG1Y": 0.2435211946
+    },
+    {
+      "date": "2021-06-23T00:00:00.000Z",
+      "marketCap": 2231136264700.0,
+      "enterpriseVal": 2314315264700.0,
+      "peRatio": 29.2374135406,
+      "pbRatio": 32.2521070962,
+      "trailingPEG1Y": 0.2430122684
+    },
+    {
+      "date": "2021-06-24T00:00:00.000Z",
+      "marketCap": 2226296851710.0,
+      "enterpriseVal": 2309475851710.0,
+      "peRatio": 29.1739965629,
+      "pbRatio": 32.1821511421,
+      "trailingPEG1Y": 0.2424851662
+    },
+    {
+      "date": "2021-06-25T00:00:00.000Z",
+      "marketCap": 2221290562410.0,
+      "enterpriseVal": 2304469562410.0,
+      "peRatio": 29.1083927928,
+      "pbRatio": 32.1097829138,
+      "trailingPEG1Y": 0.2419398881
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "marketCap": null,
+      "enterpriseVal": null,
+      "peRatio": 25.5903154583,
+      "pbRatio": 34.5564804357,
+      "trailingPEG1Y": 0.2520258341
+    },
+    {
+      "date": "2021-06-28T00:00:00.000Z",
+      "marketCap": 2249158906180.0,
+      "enterpriseVal": 2336899906180.0,
+      "peRatio": 25.911371929,
+      "pbRatio": 34.9900265429,
+      "trailingPEG1Y": 0.2551877538
+    },
+    {
+      "date": "2021-06-29T00:00:00.000Z",
+      "marketCap": 2275024734230.0,
+      "enterpriseVal": 2362765734230.0,
+      "peRatio": 26.2093584737,
+      "pbRatio": 35.3924196364,
+      "trailingPEG1Y": 0.2581224698
+    },
+    {
+      "date": "2021-06-30T00:00:00.000Z",
+      "marketCap": 2285537941760.0,
+      "enterpriseVal": 2373278941760.0,
+      "peRatio": 26.3304755854,
+      "pbRatio": 35.5559729583,
+      "trailingPEG1Y": 0.2593152899
+    },
+    {
+      "date": "2021-07-01T00:00:00.000Z",
+      "marketCap": 2290711107370.0,
+      "enterpriseVal": 2378452107370.0,
+      "peRatio": 26.3900728943,
+      "pbRatio": 35.636451577,
+      "trailingPEG1Y": 0.259902233
+    },
+    {
+      "date": "2021-07-02T00:00:00.000Z",
+      "marketCap": 2335600834760.0,
+      "enterpriseVal": 2423341834760.0,
+      "peRatio": 26.9072237363,
+      "pbRatio": 36.3347983006,
+      "trailingPEG1Y": 0.2649953853
+    },
+    {
+      "date": "2021-07-06T00:00:00.000Z",
+      "marketCap": 2369977354620.0,
+      "enterpriseVal": 2457718354620.0,
+      "peRatio": 27.3032574666,
+      "pbRatio": 36.8695917022,
+      "trailingPEG1Y": 0.2688957175
+    },
+    {
+      "date": "2021-07-07T00:00:00.000Z",
+      "marketCap": 2412530813670.0,
+      "enterpriseVal": 2500271813670.0,
+      "peRatio": 27.793493395,
+      "pbRatio": 37.5315932432,
+      "trailingPEG1Y": 0.2737237986
+    },
+    {
+      "date": "2021-07-08T00:00:00.000Z",
+      "marketCap": 2390336264440.0,
+      "enterpriseVal": 2478077264440.0,
+      "peRatio": 27.5378017147,
+      "pbRatio": 37.1863140081,
+      "trailingPEG1Y": 0.2712056229
+    },
+    {
+      "date": "2021-07-09T00:00:00.000Z",
+      "marketCap": 2421542134410.0,
+      "enterpriseVal": 2509283134410.0,
+      "peRatio": 27.8973080621,
+      "pbRatio": 37.6717818048,
+      "trailingPEG1Y": 0.2747462158
+    },
+    {
+      "date": "2021-07-12T00:00:00.000Z",
+      "marketCap": 2411362679500.0,
+      "enterpriseVal": 2499103679500.0,
+      "peRatio": 27.7800359381,
+      "pbRatio": 37.5134206518,
+      "trailingPEG1Y": 0.273591263
+    },
+    {
+      "date": "2021-07-13T00:00:00.000Z",
+      "marketCap": 2430386578840.0,
+      "enterpriseVal": 2518127578840.0,
+      "peRatio": 27.9992002355,
+      "pbRatio": 37.8093742819,
+      "trailingPEG1Y": 0.2757496993
+    },
+    {
+      "date": "2021-07-14T00:00:00.000Z",
+      "marketCap": 2488960163650.0,
+      "enterpriseVal": 2576701163650.0,
+      "peRatio": 28.6739955721,
+      "pbRatio": 38.7205999323,
+      "trailingPEG1Y": 0.2823954109
+    },
+    {
+      "date": "2021-07-15T00:00:00.000Z",
+      "marketCap": 2477779450880.0,
+      "enterpriseVal": 2565520450880.0,
+      "peRatio": 28.5451884851,
+      "pbRatio": 38.5466622726,
+      "trailingPEG1Y": 0.2811268563
+    },
+    {
+      "date": "2021-07-16T00:00:00.000Z",
+      "marketCap": 2442902302090.0,
+      "enterpriseVal": 2530643302090.0,
+      "peRatio": 28.1433872732,
+      "pbRatio": 38.0040806175,
+      "trailingPEG1Y": 0.2771697231
+    },
+    {
+      "date": "2021-07-19T00:00:00.000Z",
+      "marketCap": 2377153035950.0,
+      "enterpriseVal": 2464894035950.0,
+      "peRatio": 27.3859247016,
+      "pbRatio": 36.9812233346,
+      "trailingPEG1Y": 0.2697098645
+    },
+    {
+      "date": "2021-07-20T00:00:00.000Z",
+      "marketCap": 2438897270650.0,
+      "enterpriseVal": 2526638270650.0,
+      "peRatio": 28.0972474211,
+      "pbRatio": 37.9417745901,
+      "trailingPEG1Y": 0.2767153155
+    },
+    {
+      "date": "2021-07-21T00:00:00.000Z",
+      "marketCap": 2426381547400.0,
+      "enterpriseVal": 2514122547400.0,
+      "peRatio": 27.9530603834,
+      "pbRatio": 37.7470682545,
+      "trailingPEG1Y": 0.2752952917
+    },
+    {
+      "date": "2021-07-22T00:00:00.000Z",
+      "marketCap": 2449744230800.0,
+      "enterpriseVal": 2537485230800.0,
+      "peRatio": 28.2222095205,
+      "pbRatio": 38.1105200809,
+      "trailingPEG1Y": 0.2779460029
+    },
+    {
+      "date": "2021-07-23T00:00:00.000Z",
+      "marketCap": 2479114461360.0,
+      "enterpriseVal": 2566855461360.0,
+      "peRatio": 28.5605684358,
+      "pbRatio": 38.5674309484,
+      "trailingPEG1Y": 0.2812783255
+    },
+    {
+      "date": "2021-07-26T00:00:00.000Z",
+      "marketCap": 2486290142690.0,
+      "enterpriseVal": 2574031142690.0,
+      "peRatio": 28.6432356707,
+      "pbRatio": 38.6790625807,
+      "trailingPEG1Y": 0.2820924725
+    },
+    {
+      "date": "2021-07-27T00:00:00.000Z",
+      "marketCap": 2449243601870.0,
+      "enterpriseVal": 2536984601870.0,
+      "peRatio": 28.216442039,
+      "pbRatio": 38.1027318275,
+      "trailingPEG1Y": 0.2778892019
+    },
+    {
+      "date": "2021-07-28T00:00:00.000Z",
+      "marketCap": 2396543466680.0,
+      "enterpriseVal": 2484284466680.0,
+      "peRatio": 27.6093116136,
+      "pbRatio": 37.2828790709,
+      "trailingPEG1Y": 0.2719098871
+    },
+    {
+      "date": "2021-07-29T00:00:00.000Z",
+      "marketCap": 2407453376240.0,
+      "enterpriseVal": 2495194376240.0,
+      "peRatio": 27.7349989198,
+      "pbRatio": 37.4526038619,
+      "trailingPEG1Y": 0.2731477166
+    },
+    {
+      "date": "2021-07-30T00:00:00.000Z",
+      "marketCap": 2411090012760.0,
+      "enterpriseVal": 2498831012760.0,
+      "peRatio": 27.7768946886,
+      "pbRatio": 37.5091787922,
+      "trailingPEG1Y": 0.2735603265
+    },
+    {
+      "date": "2021-08-02T00:00:00.000Z",
+      "marketCap": 2405469756320.0,
+      "enterpriseVal": 2493210756320.0,
+      "peRatio": 27.7121466823,
+      "pbRatio": 37.421744809,
+      "trailingPEG1Y": 0.2729226567
+    },
+    {
+      "date": "2021-08-03T00:00:00.000Z",
+      "marketCap": 2435885261760.0,
+      "enterpriseVal": 2523626261760.0,
+      "peRatio": 28.0625476574,
+      "pbRatio": 37.8949169533,
+      "trailingPEG1Y": 0.2763735754
+    },
+    {
+      "date": "2021-08-04T00:00:00.000Z",
+      "marketCap": 2429107893700.0,
+      "enterpriseVal": 2516848893700.0,
+      "peRatio": 27.9844691793,
+      "pbRatio": 37.7894818559,
+      "trailingPEG1Y": 0.2756046207
+    },
+    {
+      "date": "2021-08-05T00:00:00.000Z",
+      "marketCap": 2430926211960.0,
+      "enterpriseVal": 2518667211960.0,
+      "peRatio": 28.0054170637,
+      "pbRatio": 37.8177693211,
+      "trailingPEG1Y": 0.2758109256
+    },
+    {
+      "date": "2021-08-06T00:00:00.000Z",
+      "marketCap": 2415718459240.0,
+      "enterpriseVal": 2503459459240.0,
+      "peRatio": 27.8302165761,
+      "pbRatio": 37.5811832489,
+      "trailingPEG1Y": 0.2740854663
+    },
+    {
+      "date": "2021-08-09T00:00:00.000Z",
+      "marketCap": 2414891950940.0,
+      "enterpriseVal": 2502632950940.0,
+      "peRatio": 27.8206948105,
+      "pbRatio": 37.5683253102,
+      "trailingPEG1Y": 0.2739916913
+    },
+    {
+      "date": "2021-08-10T00:00:00.000Z",
+      "marketCap": 2406792169600.0,
+      "enterpriseVal": 2494533169600.0,
+      "peRatio": 27.7273815073,
+      "pbRatio": 37.4423175109,
+      "trailingPEG1Y": 0.2730726967
+    },
+    {
+      "date": "2021-08-11T00:00:00.000Z",
+      "marketCap": 2411090012760.0,
+      "enterpriseVal": 2498831012760.0,
+      "peRatio": 27.7768946886,
+      "pbRatio": 37.5091787922,
+      "trailingPEG1Y": 0.2735603265
+    },
+    {
+      "date": "2021-08-12T00:00:00.000Z",
+      "marketCap": 2461176415740.0,
+      "enterpriseVal": 2548917415740.0,
+      "peRatio": 28.3539136856,
+      "pbRatio": 38.2883698777,
+      "trailingPEG1Y": 0.2792430893
+    },
+    {
+      "date": "2021-08-13T00:00:00.000Z",
+      "marketCap": 2464647750600.0,
+      "enterpriseVal": 2552388750600.0,
+      "peRatio": 28.3939051013,
+      "pbRatio": 38.3423732203,
+      "trailingPEG1Y": 0.2796369442
+    },
+    {
+      "date": "2021-08-16T00:00:00.000Z",
+      "marketCap": 2498038685920.0,
+      "enterpriseVal": 2585779685920.0,
+      "peRatio": 28.7785844326,
+      "pbRatio": 38.861833944,
+      "trailingPEG1Y": 0.2834254527
+    },
+    {
+      "date": "2021-08-17T00:00:00.000Z",
+      "marketCap": 2482665631540.0,
+      "enterpriseVal": 2570406631540.0,
+      "peRatio": 28.6014795919,
+      "pbRatio": 38.6226762841,
+      "trailingPEG1Y": 0.2816812384
+    },
+    {
+      "date": "2021-08-18T00:00:00.000Z",
+      "marketCap": 2419355095760.0,
+      "enterpriseVal": 2507096095760.0,
+      "peRatio": 27.8721123449,
+      "pbRatio": 37.6377581792,
+      "trailingPEG1Y": 0.2744980761
+    },
+    {
+      "date": "2021-08-19T00:00:00.000Z",
+      "marketCap": 2424975352200.0,
+      "enterpriseVal": 2512716352200.0,
+      "peRatio": 27.9368603511,
+      "pbRatio": 37.7251921624,
+      "trailingPEG1Y": 0.2751357459
+    },
+    {
+      "date": "2021-08-20T00:00:00.000Z",
+      "marketCap": 2449605299540.0,
+      "enterpriseVal": 2537346299540.0,
+      "peRatio": 28.2206089668,
+      "pbRatio": 38.1083587358,
+      "trailingPEG1Y": 0.2779302398
+    },
+    {
+      "date": "2021-08-23T00:00:00.000Z",
+      "marketCap": 2474731151860.0,
+      "enterpriseVal": 2562472151860.0,
+      "peRatio": 28.5100706419,
+      "pbRatio": 38.4992400725,
+      "trailingPEG1Y": 0.2807809987
+    },
+    {
+      "date": "2021-08-24T00:00:00.000Z",
+      "marketCap": 2473243436920.0,
+      "enterpriseVal": 2560984436920.0,
+      "peRatio": 28.4929314638,
+      "pbRatio": 38.4760957828,
+      "trailingPEG1Y": 0.2806122038
+    },
+    {
+      "date": "2021-08-25T00:00:00.000Z",
+      "marketCap": 2452415427760.0,
+      "enterpriseVal": 2540156427760.0,
+      "peRatio": 28.25298297,
+      "pbRatio": 38.1520757274,
+      "trailingPEG1Y": 0.2782490747
+    },
+    {
+      "date": "2021-08-26T00:00:00.000Z",
+      "marketCap": 2438860691640.0,
+      "enterpriseVal": 2526601691640.0,
+      "peRatio": 28.0968260137,
+      "pbRatio": 37.9412055327,
+      "trailingPEG1Y": 0.2767111653
+    },
+    {
+      "date": "2021-08-27T00:00:00.000Z",
+      "marketCap": 2456382667600.0,
+      "enterpriseVal": 2544123667600.0,
+      "peRatio": 28.298687445,
+      "pbRatio": 38.2137938332,
+      "trailingPEG1Y": 0.2786991945
+    },
+    {
+      "date": "2021-08-30T00:00:00.000Z",
+      "marketCap": 2531099017920.0,
+      "enterpriseVal": 2618840017920.0,
+      "peRatio": 29.1594550577,
+      "pbRatio": 39.3761514922,
+      "trailingPEG1Y": 0.2871764513
+    },
+    {
+      "date": "2021-08-31T00:00:00.000Z",
+      "marketCap": 2509775103780.0,
+      "enterpriseVal": 2597516103780.0,
+      "peRatio": 28.9137935045,
+      "pbRatio": 39.0444166736,
+      "trailingPEG1Y": 0.2847570572
+    },
+    {
+      "date": "2021-09-01T00:00:00.000Z",
+      "marketCap": 2521015616660.0,
+      "enterpriseVal": 2608756616660.0,
+      "peRatio": 29.0432895171,
+      "pbRatio": 39.21928464,
+      "trailingPEG1Y": 0.2860323968
+    },
+    {
+      "date": "2021-09-02T00:00:00.000Z",
+      "marketCap": 2539860005900.0,
+      "enterpriseVal": 2627601005900.0,
+      "peRatio": 29.2603857734,
+      "pbRatio": 39.5124456425,
+      "trailingPEG1Y": 0.2881704659
+    },
+    {
+      "date": "2021-09-03T00:00:00.000Z",
+      "marketCap": 2550604613800.0,
+      "enterpriseVal": 2638345613800.0,
+      "peRatio": 29.3841687265,
+      "pbRatio": 39.6795988457,
+      "trailingPEG1Y": 0.2893895405
+    },
+    {
+      "date": "2021-09-07T00:00:00.000Z",
+      "marketCap": 2590111710540.0,
+      "enterpriseVal": 2677852710540.0,
+      "peRatio": 29.8393091235,
+      "pbRatio": 40.2942083158,
+      "trailingPEG1Y": 0.2938719838
+    },
+    {
+      "date": "2021-09-08T00:00:00.000Z",
+      "marketCap": 2563994048260.0,
+      "enterpriseVal": 2651735048260.0,
+      "peRatio": 29.5384213297,
+      "pbRatio": 39.8878974527,
+      "trailingPEG1Y": 0.2909086949
+    },
+    {
+      "date": "2021-09-09T00:00:00.000Z",
+      "marketCap": 2546802675620.0,
+      "enterpriseVal": 2634543675620.0,
+      "peRatio": 29.3403686046,
+      "pbRatio": 39.6204523276,
+      "trailingPEG1Y": 0.2889581757
+    },
+    {
+      "date": "2021-09-10T00:00:00.000Z",
+      "marketCap": 2462498829020.0,
+      "enterpriseVal": 2550239829020.0,
+      "peRatio": 28.3691485106,
+      "pbRatio": 38.3089425797,
+      "trailingPEG1Y": 0.2793931293
+    },
+    {
+      "date": "2021-09-13T00:00:00.000Z",
+      "marketCap": 2472086325300.0,
+      "enterpriseVal": 2559827325300.0,
+      "peRatio": 28.4796009919,
+      "pbRatio": 38.4580946686,
+      "trailingPEG1Y": 0.2804809189
+    },
+    {
+      "date": "2021-09-14T00:00:00.000Z",
+      "marketCap": 2448448187920.0,
+      "enterpriseVal": 2536189187920.0,
+      "peRatio": 28.207278495,
+      "pbRatio": 38.0903576217,
+      "trailingPEG1Y": 0.2777989549
+    },
+    {
+      "date": "2021-09-15T00:00:00.000Z",
+      "marketCap": 2463490638980.0,
+      "enterpriseVal": 2551231638980.0,
+      "peRatio": 28.3805746294,
+      "pbRatio": 38.3243721061,
+      "trailingPEG1Y": 0.2795056592
+    },
+    {
+      "date": "2021-09-16T00:00:00.000Z",
+      "marketCap": 2459523399140.0,
+      "enterpriseVal": 2547264399140.0,
+      "peRatio": 28.3348701544,
+      "pbRatio": 38.2626540003,
+      "trailingPEG1Y": 0.2790555394
+    },
+    {
+      "date": "2021-09-17T00:00:00.000Z",
+      "marketCap": 2414396045960.0,
+      "enterpriseVal": 2502137045960.0,
+      "peRatio": 27.8149817511,
+      "pbRatio": 37.560610547,
+      "trailingPEG1Y": 0.2739354263
+    },
+    {
+      "date": "2021-09-20T00:00:00.000Z",
+      "marketCap": 2362821928040.0,
+      "enterpriseVal": 2450562928040.0,
+      "peRatio": 27.220823576,
+      "pbRatio": 36.7582751717,
+      "trailingPEG1Y": 0.2680838686
+    },
+    {
+      "date": "2021-09-21T00:00:00.000Z",
+      "marketCap": 2370921709380.0,
+      "enterpriseVal": 2458662709380.0,
+      "peRatio": 27.3141368791,
+      "pbRatio": 36.8842829711,
+      "trailingPEG1Y": 0.2690028632
+    },
+    {
+      "date": "2021-09-22T00:00:00.000Z",
+      "marketCap": 2410924711100.0,
+      "enterpriseVal": 2498665711100.0,
+      "peRatio": 27.7749903355,
+      "pbRatio": 37.5066072044,
+      "trailingPEG1Y": 0.2735415715
+    },
+    {
+      "date": "2021-09-23T00:00:00.000Z",
+      "marketCap": 2427124273780.0,
+      "enterpriseVal": 2514865273780.0,
+      "peRatio": 27.9616169418,
+      "pbRatio": 37.758622803,
+      "trailingPEG1Y": 0.2753795608
+    },
+    {
+      "date": "2021-09-24T00:00:00.000Z",
+      "marketCap": 2428611988720.0,
+      "enterpriseVal": 2516352988720.0,
+      "peRatio": 27.9787561199,
+      "pbRatio": 37.7817670927,
+      "trailingPEG1Y": 0.2755483557
+    },
+    {
+      "date": "2021-09-25T00:00:00.000Z",
+      "marketCap": null,
+      "enterpriseVal": null,
+      "peRatio": 25.6507392134,
+      "pbRatio": 38.4944046397,
+      "trailingPEG1Y": 0.3847610882
+    },
+    {
+      "date": "2021-09-27T00:00:00.000Z",
+      "marketCap": 2402990231420.0,
+      "enterpriseVal": 2492769231420.0,
+      "peRatio": 25.3801249622,
+      "pbRatio": 38.0882902428,
+      "trailingPEG1Y": 0.3807018744
+    },
+    {
+      "date": "2021-09-28T00:00:00.000Z",
+      "marketCap": 2345795857060.0,
+      "enterpriseVal": 2435574857060.0,
+      "peRatio": 24.7760441177,
+      "pbRatio": 37.1817381052,
+      "trailingPEG1Y": 0.3716406618
+    },
+    {
+      "date": "2021-09-29T00:00:00.000Z",
+      "marketCap": 2361003609780.0,
+      "enterpriseVal": 2450782609780.0,
+      "peRatio": 24.93666677,
+      "pbRatio": 37.4227866505,
+      "trailingPEG1Y": 0.3740500015
+    },
+    {
+      "date": "2021-09-30T00:00:00.000Z",
+      "marketCap": 2339018489000.0,
+      "enterpriseVal": 2428797489000.0,
+      "peRatio": 24.7044622835,
+      "pbRatio": 37.074314297,
+      "trailingPEG1Y": 0.3705669343
+    },
+    {
+      "date": "2021-10-01T00:00:00.000Z",
+      "marketCap": 2358028179900.0,
+      "enterpriseVal": 2447807179900.0,
+      "peRatio": 24.9052405989,
+      "pbRatio": 37.3756249786,
+      "trailingPEG1Y": 0.373578609
+    },
+    {
+      "date": "2021-10-04T00:00:00.000Z",
+      "marketCap": 2300007297240.0,
+      "enterpriseVal": 2389786297240.0,
+      "peRatio": 24.2924302624,
+      "pbRatio": 36.4559723766,
+      "trailingPEG1Y": 0.3643864539
+    },
+    {
+      "date": "2021-10-05T00:00:00.000Z",
+      "marketCap": 2332571724260.0,
+      "enterpriseVal": 2422350724260.0,
+      "peRatio": 24.6363722461,
+      "pbRatio": 36.9721306746,
+      "trailingPEG1Y": 0.3695455837
+    },
+    {
+      "date": "2021-10-06T00:00:00.000Z",
+      "marketCap": 2347283572000.0,
+      "enterpriseVal": 2437062572000.0,
+      "peRatio": 24.7917572032,
+      "pbRatio": 37.2053189412,
+      "trailingPEG1Y": 0.371876358
+    },
+    {
+      "date": "2021-10-07T00:00:00.000Z",
+      "marketCap": 2368607486140.0,
+      "enterpriseVal": 2458386486140.0,
+      "peRatio": 25.0169780961,
+      "pbRatio": 37.5433109231,
+      "trailingPEG1Y": 0.3752546714
+    },
+    {
+      "date": "2021-10-08T00:00:00.000Z",
+      "marketCap": 2362160721400.0,
+      "enterpriseVal": 2451939721400.0,
+      "peRatio": 24.9488880587,
+      "pbRatio": 37.4411273007,
+      "trailingPEG1Y": 0.3742333209
+    },
+    {
+      "date": "2021-10-11T00:00:00.000Z",
+      "marketCap": 2360673006460.0,
+      "enterpriseVal": 2450452006460.0,
+      "peRatio": 24.9331749732,
+      "pbRatio": 37.4175464647,
+      "trailingPEG1Y": 0.3739976246
+    },
+    {
+      "date": "2021-10-12T00:00:00.000Z",
+      "marketCap": 2339183790660.0,
+      "enterpriseVal": 2428962790660.0,
+      "peRatio": 24.7062081819,
+      "pbRatio": 37.0769343899,
+      "trailingPEG1Y": 0.3705931227
+    },
+    {
+      "date": "2021-10-13T00:00:00.000Z",
+      "marketCap": 2329265691060.0,
+      "enterpriseVal": 2419044691060.0,
+      "peRatio": 24.6014542782,
+      "pbRatio": 36.9197288169,
+      "trailingPEG1Y": 0.3690218142
+    },
+    {
+      "date": "2021-10-14T00:00:00.000Z",
+      "marketCap": 2376376664160.0,
+      "enterpriseVal": 2466155664160.0,
+      "peRatio": 25.0990353207,
+      "pbRatio": 37.6664552886,
+      "trailingPEG1Y": 0.3764855298
+    },
+    {
+      "date": "2021-10-15T00:00:00.000Z",
+      "marketCap": 2394229243440.0,
+      "enterpriseVal": 2484008243440.0,
+      "peRatio": 25.2875923473,
+      "pbRatio": 37.94942532,
+      "trailingPEG1Y": 0.3793138852
+    },
+    {
+      "date": "2021-10-18T00:00:00.000Z",
+      "marketCap": 2422495827300.0,
+      "enterpriseVal": 2512274827300.0,
+      "peRatio": 25.5861409728,
+      "pbRatio": 38.397461203,
+      "trailingPEG1Y": 0.3837921146
+    },
+    {
+      "date": "2021-10-19T00:00:00.000Z",
+      "marketCap": 2459027494160.0,
+      "enterpriseVal": 2548806494160.0,
+      "peRatio": 25.971984518,
+      "pbRatio": 38.9765017302,
+      "trailingPEG1Y": 0.3895797678
+    },
+    {
+      "date": "2021-10-20T00:00:00.000Z",
+      "marketCap": 2467292577160.0,
+      "enterpriseVal": 2557071577160.0,
+      "peRatio": 26.0592794377,
+      "pbRatio": 39.1075063744,
+      "trailingPEG1Y": 0.3908891916
+    },
+    {
+      "date": "2021-10-21T00:00:00.000Z",
+      "marketCap": 2470929213680.0,
+      "enterpriseVal": 2560708213680.0,
+      "peRatio": 26.0976892024,
+      "pbRatio": 39.1651484178,
+      "trailingPEG1Y": 0.391465338
+    },
+    {
+      "date": "2021-10-22T00:00:00.000Z",
+      "marketCap": 2457870382540.0,
+      "enterpriseVal": 2547649382540.0,
+      "peRatio": 25.9597632292,
+      "pbRatio": 38.95816108,
+      "trailingPEG1Y": 0.3893964484
+    },
+    {
+      "date": "2021-10-25T00:00:00.000Z",
+      "marketCap": 2457043874240.0,
+      "enterpriseVal": 2546822874240.0,
+      "peRatio": 25.9510337372,
+      "pbRatio": 38.9450606156,
+      "trailingPEG1Y": 0.3892655061
+    },
+    {
+      "date": "2021-10-26T00:00:00.000Z",
+      "marketCap": 2468284387120.0,
+      "enterpriseVal": 2558063387120.0,
+      "peRatio": 26.0697548281,
+      "pbRatio": 39.1232269317,
+      "trailingPEG1Y": 0.3910463224
+    },
+    {
+      "date": "2021-10-27T00:00:00.000Z",
+      "marketCap": 2460515209100.0,
+      "enterpriseVal": 2550294209100.0,
+      "peRatio": 25.9876976035,
+      "pbRatio": 39.0000825662,
+      "trailingPEG1Y": 0.3898154641
+    },
+    {
+      "date": "2021-10-28T00:00:00.000Z",
+      "marketCap": 2522007426620.0,
+      "enterpriseVal": 2611786426620.0,
+      "peRatio": 26.6371718063,
+      "pbRatio": 39.9747571187,
+      "trailingPEG1Y": 0.3995575771
+    },
+    {
+      "date": "2021-10-29T00:00:00.000Z",
+      "marketCap": 2457678270600.0,
+      "enterpriseVal": 2547457270600.0,
+      "peRatio": 25.9577341635,
+      "pbRatio": 38.9551160342,
+      "trailingPEG1Y": 0.3893660125
+    },
+    {
+      "date": "2021-11-01T00:00:00.000Z",
+      "marketCap": 2443896897120.0,
+      "enterpriseVal": 2533675897120.0,
+      "peRatio": 25.8121767757,
+      "pbRatio": 38.7366761312,
+      "trailingPEG1Y": 0.3871826516
+    },
+    {
+      "date": "2021-11-02T00:00:00.000Z",
+      "marketCap": 2461287677940.0,
+      "enterpriseVal": 2551066677940.0,
+      "peRatio": 25.9958563365,
+      "pbRatio": 39.012326485,
+      "trailingPEG1Y": 0.389937845
+    },
+    {
+      "date": "2021-11-03T00:00:00.000Z",
+      "marketCap": 2485405081530.0,
+      "enterpriseVal": 2575184081530.0,
+      "peRatio": 26.2505817652,
+      "pbRatio": 39.3945963153,
+      "trailingPEG1Y": 0.3937587265
+    },
+    {
+      "date": "2021-11-04T00:00:00.000Z",
+      "marketCap": 2476709691120.0,
+      "enterpriseVal": 2566488691120.0,
+      "peRatio": 26.1587419848,
+      "pbRatio": 39.2567711384,
+      "trailingPEG1Y": 0.3923811298
+    },
+    {
+      "date": "2021-11-05T00:00:00.000Z",
+      "marketCap": 2481959738160.0,
+      "enterpriseVal": 2571738738160.0,
+      "peRatio": 26.2141924183,
+      "pbRatio": 39.3399863395,
+      "trailingPEG1Y": 0.3932128863
+    },
+    {
+      "date": "2021-11-08T00:00:00.000Z",
+      "marketCap": 2468178364680.0,
+      "enterpriseVal": 2557957364680.0,
+      "peRatio": 26.0686350304,
+      "pbRatio": 39.1215464365,
+      "trailingPEG1Y": 0.3910295255
+    },
+    {
+      "date": "2021-11-09T00:00:00.000Z",
+      "marketCap": 2474248731570.0,
+      "enterpriseVal": 2564027731570.0,
+      "peRatio": 26.1327495941,
+      "pbRatio": 39.2177640128,
+      "trailingPEG1Y": 0.3919912439
+    },
+    {
+      "date": "2021-11-10T00:00:00.000Z",
+      "marketCap": 2426834244240.0,
+      "enterpriseVal": 2516613244240.0,
+      "peRatio": 25.6319628669,
+      "pbRatio": 38.4662267275,
+      "trailingPEG1Y": 0.384479443
+    },
+    {
+      "date": "2021-11-11T00:00:00.000Z",
+      "marketCap": 2426013924390.0,
+      "enterpriseVal": 2515792924390.0,
+      "peRatio": 25.6232987367,
+      "pbRatio": 38.4532243524,
+      "trailingPEG1Y": 0.3843494811
+    },
+    {
+      "date": "2021-11-12T00:00:00.000Z",
+      "marketCap": 2460795486030.0,
+      "enterpriseVal": 2550574486030.0,
+      "peRatio": 25.9906578584,
+      "pbRatio": 39.0045250599,
+      "trailingPEG1Y": 0.3898598679
+    },
+    {
+      "date": "2021-11-15T00:00:00.000Z",
+      "marketCap": 2460959550000.0,
+      "enterpriseVal": 2550738550000.0,
+      "peRatio": 25.9923906844,
+      "pbRatio": 39.007125535,
+      "trailingPEG1Y": 0.3898858603
+    },
+    {
+      "date": "2021-11-16T00:00:00.000Z",
+      "marketCap": 2477365947000.0,
+      "enterpriseVal": 2567144947000.0,
+      "peRatio": 26.165673289,
+      "pbRatio": 39.2671730385,
+      "trailingPEG1Y": 0.3924850993
+    },
+    {
+      "date": "2021-11-17T00:00:00.000Z",
+      "marketCap": 2518217875530.0,
+      "enterpriseVal": 2607996875530.0,
+      "peRatio": 26.5971469743,
+      "pbRatio": 39.9146913224,
+      "trailingPEG1Y": 0.3989572046
+    },
+    {
+      "date": "2021-11-18T00:00:00.000Z",
+      "marketCap": 2590077894390.0,
+      "enterpriseVal": 2679856894390.0,
+      "peRatio": 27.3561247823,
+      "pbRatio": 41.053699388,
+      "trailingPEG1Y": 0.4103418717
+    },
+    {
+      "date": "2021-11-19T00:00:00.000Z",
+      "marketCap": 2634047038350.0,
+      "enterpriseVal": 2723826038350.0,
+      "peRatio": 27.8205221625,
+      "pbRatio": 41.7506266976,
+      "trailingPEG1Y": 0.4173078324
+    },
+    {
+      "date": "2021-11-22T00:00:00.000Z",
+      "marketCap": 2641758044940.0,
+      "enterpriseVal": 2731537044940.0,
+      "peRatio": 27.9019649867,
+      "pbRatio": 41.8728490243,
+      "trailingPEG1Y": 0.4185294748
+    },
+    {
+      "date": "2021-11-23T00:00:00.000Z",
+      "marketCap": 2648156539770.0,
+      "enterpriseVal": 2737935539770.0,
+      "peRatio": 27.9695452025,
+      "pbRatio": 41.9742675506,
+      "trailingPEG1Y": 0.419543178
+    },
+    {
+      "date": "2021-11-24T00:00:00.000Z",
+      "marketCap": 2656851930180.0,
+      "enterpriseVal": 2746630930180.0,
+      "peRatio": 28.0613849829,
+      "pbRatio": 42.1120927275,
+      "trailingPEG1Y": 0.4209207747
+    },
+    {
+      "date": "2021-11-26T00:00:00.000Z",
+      "marketCap": 2572687113570.0,
+      "enterpriseVal": 2662466113570.0,
+      "peRatio": 27.1724452215,
+      "pbRatio": 40.7780490342,
+      "trailingPEG1Y": 0.4075866783
+    },
+    {
+      "date": "2021-11-29T00:00:00.000Z",
+      "marketCap": 2628961055280.0,
+      "enterpriseVal": 2718740055280.0,
+      "peRatio": 27.7668045551,
+      "pbRatio": 41.6700119715,
+      "trailingPEG1Y": 0.4165020683
+    },
+    {
+      "date": "2021-11-30T00:00:00.000Z",
+      "marketCap": 2711977424100.0,
+      "enterpriseVal": 2801756424100.0,
+      "peRatio": 28.6436145342,
+      "pbRatio": 42.9858523395,
+      "trailingPEG1Y": 0.429654218
+    },
+    {
+      "date": "2021-12-01T00:00:00.000Z",
+      "marketCap": 2703282033690.0,
+      "enterpriseVal": 2793061033690.0,
+      "peRatio": 28.5517747538,
+      "pbRatio": 42.8480271626,
+      "trailingPEG1Y": 0.4282766213
+    },
+    {
+      "date": "2021-12-02T00:00:00.000Z",
+      "marketCap": 2686711572720.0,
+      "enterpriseVal": 2776490572720.0,
+      "peRatio": 28.3767593232,
+      "pbRatio": 42.585379184,
+      "trailingPEG1Y": 0.4256513898
+    },
+    {
+      "date": "2021-12-03T00:00:00.000Z",
+      "marketCap": 2655211290480.0,
+      "enterpriseVal": 2744990290480.0,
+      "peRatio": 28.0440567224,
+      "pbRatio": 42.0860879772,
+      "trailingPEG1Y": 0.4206608508
+    },
+    {
+      "date": "2021-12-06T00:00:00.000Z",
+      "marketCap": 2712305552040.0,
+      "enterpriseVal": 2802084552040.0,
+      "peRatio": 28.6470801863,
+      "pbRatio": 42.9910532896,
+      "trailingPEG1Y": 0.4297062028
+    },
+    {
+      "date": "2021-12-07T00:00:00.000Z",
+      "marketCap": 2808447038460.0,
+      "enterpriseVal": 2898226038460.0,
+      "peRatio": 29.662516249,
+      "pbRatio": 44.5149316605,
+      "trailingPEG1Y": 0.4449377437
+    },
+    {
+      "date": "2021-12-08T00:00:00.000Z",
+      "marketCap": 2872431986760.0,
+      "enterpriseVal": 2962210986760.0,
+      "peRatio": 30.3383184068,
+      "pbRatio": 45.5291169244,
+      "trailingPEG1Y": 0.4550747761
+    },
+    {
+      "date": "2021-12-09T00:00:00.000Z",
+      "marketCap": 2863900660320.0,
+      "enterpriseVal": 2953679660320.0,
+      "peRatio": 30.2482114525,
+      "pbRatio": 45.3938922225,
+      "trailingPEG1Y": 0.4537231718
+    },
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "marketCap": 2944127941650.0,
+      "enterpriseVal": 3033906941650.0,
+      "peRatio": 31.0955633888,
+      "pbRatio": 46.665524515,
+      "trailingPEG1Y": 0.4664334508
+    },
+    {
+      "date": "2021-12-13T00:00:00.000Z",
+      "marketCap": 2883260208780.0,
+      "enterpriseVal": 2973039208780.0,
+      "peRatio": 30.4526849259,
+      "pbRatio": 45.7007482767,
+      "trailingPEG1Y": 0.4567902739
+    },
+    {
+      "date": "2021-12-14T00:00:00.000Z",
+      "marketCap": 2860127189010.0,
+      "enterpriseVal": 2949906189010.0,
+      "peRatio": 30.2083564534,
+      "pbRatio": 45.3340812967,
+      "trailingPEG1Y": 0.4531253468
+    },
+    {
+      "date": "2021-12-15T00:00:00.000Z",
+      "marketCap": 2941666982100.0,
+      "enterpriseVal": 3031445982100.0,
+      "peRatio": 31.0695709981,
+      "pbRatio": 46.6265173894,
+      "trailingPEG1Y": 0.466043565
+    },
+    {
+      "date": "2021-12-16T00:00:00.000Z",
+      "marketCap": 2826165947220.0,
+      "enterpriseVal": 2915944947220.0,
+      "peRatio": 29.849661462,
+      "pbRatio": 44.7957829643,
+      "trailingPEG1Y": 0.4477449219
+    },
+    {
+      "date": "2021-12-17T00:00:00.000Z",
+      "marketCap": 2807790782580.0,
+      "enterpriseVal": 2897569782580.0,
+      "peRatio": 29.6555849449,
+      "pbRatio": 44.5045297603,
+      "trailingPEG1Y": 0.4448337742
+    },
+    {
+      "date": "2021-12-20T00:00:00.000Z",
+      "marketCap": 2784985890750.0,
+      "enterpriseVal": 2874764890750.0,
+      "peRatio": 29.4147221245,
+      "pbRatio": 44.1430637304,
+      "trailingPEG1Y": 0.4412208319
+    },
+    {
+      "date": "2021-12-21T00:00:00.000Z",
+      "marketCap": 2838142617030.0,
+      "enterpriseVal": 2927921617030.0,
+      "peRatio": 29.9761577633,
+      "pbRatio": 44.9856176419,
+      "trailingPEG1Y": 0.4496423664
+    },
+    {
+      "date": "2021-12-22T00:00:00.000Z",
+      "marketCap": 2881619569080.0,
+      "enterpriseVal": 2971398569080.0,
+      "peRatio": 30.4353566654,
+      "pbRatio": 45.6747435264,
+      "trailingPEG1Y": 0.45653035
+    },
+    {
+      "date": "2021-12-23T00:00:00.000Z",
+      "marketCap": 2892119663160.0,
+      "enterpriseVal": 2981898663160.0,
+      "peRatio": 30.5462575323,
+      "pbRatio": 45.8411739287,
+      "trailingPEG1Y": 0.458193863
+    },
+    {
+      "date": "2021-12-25T00:00:00.000Z",
+      "marketCap": null,
+      "enterpriseVal": null,
+      "peRatio": 28.7615699186,
+      "pbRatio": 40.2063012729,
+      "trailingPEG1Y": 1.1925528991
+    },
+    {
+      "date": "2021-12-27T00:00:00.000Z",
+      "marketCap": 2958565571010.0,
+      "enterpriseVal": 3044244571010.0,
+      "peRatio": 29.4223616032,
+      "pbRatio": 41.1300335179,
+      "trailingPEG1Y": 1.2199515787
+    },
+    {
+      "date": "2021-12-28T00:00:00.000Z",
+      "marketCap": 2941502918130.0,
+      "enterpriseVal": 3027181918130.0,
+      "peRatio": 29.2526768249,
+      "pbRatio": 40.8928282007,
+      "trailingPEG1Y": 1.2129158684
+    },
+    {
+      "date": "2021-12-29T00:00:00.000Z",
+      "marketCap": 2942979493860.0,
+      "enterpriseVal": 3028658493860.0,
+      "peRatio": 29.2673610846,
+      "pbRatio": 40.9133555839,
+      "trailingPEG1Y": 1.2135247279
+    },
+    {
+      "date": "2021-12-30T00:00:00.000Z",
+      "marketCap": 2923619945400.0,
+      "enterpriseVal": 3009298945400.0,
+      "peRatio": 29.0748341246,
+      "pbRatio": 40.6442187816,
+      "trailingPEG1Y": 1.2055419027
+    },
+    {
+      "date": "2021-12-31T00:00:00.000Z",
+      "marketCap": 2913283915290.0,
+      "enterpriseVal": 2998962915290.0,
+      "peRatio": 28.972044307,
+      "pbRatio": 40.5005270991,
+      "trailingPEG1Y": 1.2012798859
+    }
+  ],
+  "FUNDAMENTALS_STMNTS": [
+    {
+      "date": "2020-10-30",
+      "year": 2020,
+      "quarter": 4,
+      "statementData": {
+        "balanceSheet": [
+          { "dataCode": "liabilitiesCurrent", "value": 105392000000.0 },
+          { "dataCode": "equity", "value": 65339000000.0 },
+          { "dataCode": "taxLiabilities", "value": 0.0 },
+          { "dataCode": "liabilitiesNonCurrent", "value": 153157000000.0 },
+          { "dataCode": "retainedEarnings", "value": 14966000000.0 },
+          { "dataCode": "debtCurrent", "value": 13769000000.0 },
+          { "dataCode": "taxAssets", "value": 0.0 },
+          { "dataCode": "assetsNonCurrent", "value": 180175000000.0 },
+          { "dataCode": "acctPay", "value": 42296000000.0 },
+          { "dataCode": "debt", "value": 112436000000.0 },
+          { "dataCode": "ppeq", "value": 36766000000.0 },
+          { "dataCode": "deferredRev", "value": 6643000000.0 },
+          { "dataCode": "totalAssets", "value": 323888000000.0 },
+          { "dataCode": "investmentsNonCurrent", "value": 100887000000.0 },
+          { "dataCode": "deposits", "value": 0.0 },
+          { "dataCode": "inventory", "value": 4061000000.0 },
+          { "dataCode": "intangibles", "value": 0.0 },
+          { "dataCode": "debtNonCurrent", "value": 98667000000.0 },
+          { "dataCode": "investments", "value": 153814000000.0 },
+          { "dataCode": "assetsCurrent", "value": 143713000000.0 },
+          { "dataCode": "investmentsCurrent", "value": 52927000000.0 },
+          { "dataCode": "accoci", "value": -406000000.0 },
+          { "dataCode": "sharesBasic", "value": 17001802000.0 },
+          { "dataCode": "cashAndEq", "value": 38016000000.0 },
+          { "dataCode": "acctRec", "value": 37445000000.0 },
+          { "dataCode": "totalLiabilities", "value": 258549000000.0 }
+        ],
+        "cashFlow": [
+          { "dataCode": "investmentsAcqDisposals", "value": 7468000000.0 },
+          { "dataCode": "businessAcqDisposals", "value": -51000000.0 },
+          { "dataCode": "sbcomp", "value": 1724000000.0 },
+          { "dataCode": "ncff", "value": -21357000000.0 },
+          { "dataCode": "ncfo", "value": 20576000000.0 },
+          { "dataCode": "ncf", "value": 4750000000.0 },
+          { "dataCode": "ncfx", "value": 0.0 },
+          { "dataCode": "issrepayEquity", "value": -16737000000.0 },
+          { "dataCode": "freeCashFlow", "value": 18792000000.0 },
+          { "dataCode": "issrepayDebt", "value": -703000000.0 },
+          { "dataCode": "capex", "value": -1784000000.0 },
+          { "dataCode": "ncfi", "value": 5531000000.0 },
+          { "dataCode": "depamor", "value": 2702000000.0 },
+          { "dataCode": "payDiv", "value": -3511000000.0 }
+        ],
+        "incomeStatement": [
+          { "dataCode": "netIncDiscOps", "value": 0.0 },
+          { "dataCode": "shareswaDil", "value": 17256516000.0 },
+          { "dataCode": "grossProfit", "value": 24689000000.0 },
+          { "dataCode": "opinc", "value": 14775000000.0 },
+          { "dataCode": "nonControllingInterests", "value": 0.0 },
+          { "dataCode": "intexp", "value": 634000000.0 },
+          { "dataCode": "eps", "value": 0.748 },
+          { "dataCode": "costRev", "value": 40009000000.0 },
+          { "dataCode": "epsDil", "value": 0.74 },
+          { "dataCode": "taxExp", "value": 2228000000.0 },
+          { "dataCode": "netIncComStock", "value": 12673000000.0 },
+          { "dataCode": "ebitda", "value": 18237000000.0 },
+          { "dataCode": "revenue", "value": 64698000000.0 },
+          { "dataCode": "ebt", "value": 14901000000.0 },
+          { "dataCode": "ebit", "value": 15535000000.0 },
+          { "dataCode": "netinc", "value": 12673000000.0 },
+          { "dataCode": "opex", "value": 9914000000.0 },
+          { "dataCode": "prefDVDs", "value": 0.0 },
+          { "dataCode": "rnd", "value": 4978000000.0 },
+          { "dataCode": "consolidatedIncome", "value": 12673000000.0 },
+          { "dataCode": "shareswa", "value": 17057624000.0 },
+          { "dataCode": "sga", "value": 4936000000.0 }
+        ],
+        "overview": [{ "dataCode": "shareFactor", "value": 1.0 }]
+      }
+    },
+    {
+      "date": "2020-10-30",
+      "year": 2020,
+      "quarter": 0,
+      "statementData": {
+        "balanceSheet": [
+          { "dataCode": "totalAssets", "value": 323888000000.0 },
+          { "dataCode": "totalLiabilities", "value": 258549000000.0 },
+          { "dataCode": "liabilitiesCurrent", "value": 105392000000.0 },
+          { "dataCode": "acctRec", "value": 37445000000.0 },
+          { "dataCode": "deferredRev", "value": 6643000000.0 },
+          { "dataCode": "cashAndEq", "value": 38016000000.0 },
+          { "dataCode": "equity", "value": 65339000000.0 },
+          { "dataCode": "accoci", "value": -406000000.0 },
+          { "dataCode": "investmentsCurrent", "value": 52927000000.0 },
+          { "dataCode": "retainedEarnings", "value": 14966000000.0 },
+          { "dataCode": "sharesBasic", "value": 17001802000.0 },
+          { "dataCode": "assetsCurrent", "value": 143713000000.0 },
+          { "dataCode": "debt", "value": 112436000000.0 },
+          { "dataCode": "ppeq", "value": 36766000000.0 },
+          { "dataCode": "investments", "value": 153814000000.0 },
+          { "dataCode": "debtNonCurrent", "value": 98667000000.0 },
+          { "dataCode": "intangibles", "value": 0.0 },
+          { "dataCode": "acctPay", "value": 42296000000.0 },
+          { "dataCode": "liabilitiesNonCurrent", "value": 153157000000.0 },
+          { "dataCode": "inventory", "value": 4061000000.0 },
+          { "dataCode": "taxAssets", "value": 0.0 },
+          { "dataCode": "deposits", "value": 0.0 },
+          { "dataCode": "assetsNonCurrent", "value": 180175000000.0 },
+          { "dataCode": "debtCurrent", "value": 13769000000.0 },
+          { "dataCode": "investmentsNonCurrent", "value": 100887000000.0 },
+          { "dataCode": "taxLiabilities", "value": 0.0 }
+        ],
+        "cashFlow": [
+          { "dataCode": "investmentsAcqDisposals", "value": 5335000000.0 },
+          { "dataCode": "ncf", "value": -10435000000.0 },
+          { "dataCode": "ncfx", "value": 0.0 },
+          { "dataCode": "payDiv", "value": -14081000000.0 },
+          { "dataCode": "ncfi", "value": -4289000000.0 },
+          { "dataCode": "depamor", "value": 11056000000.0 },
+          { "dataCode": "ncfo", "value": 80674000000.0 },
+          { "dataCode": "ncff", "value": -86820000000.0 },
+          { "dataCode": "businessAcqDisposals", "value": -1524000000.0 },
+          { "dataCode": "capex", "value": -7309000000.0 },
+          { "dataCode": "issrepayDebt", "value": 2499000000.0 },
+          { "dataCode": "issrepayEquity", "value": -71478000000.0 },
+          { "dataCode": "freeCashFlow", "value": 73365000000.0 },
+          { "dataCode": "sbcomp", "value": 6829000000.0 }
+        ],
+        "incomeStatement": [
+          { "dataCode": "nonControllingInterests", "value": 0.0 },
+          { "dataCode": "ebitda", "value": 81020000000.0 },
+          { "dataCode": "netIncDiscOps", "value": 0.0 },
+          { "dataCode": "netIncComStock", "value": 57411000000.0 },
+          { "dataCode": "taxExp", "value": 9680000000.0 },
+          { "dataCode": "shareswa", "value": 17352119000.0 },
+          { "dataCode": "sga", "value": 19916000000.0 },
+          { "dataCode": "consolidatedIncome", "value": 57411000000.0 },
+          { "dataCode": "shareswaDil", "value": 17528214000.0 },
+          { "dataCode": "prefDVDs", "value": 0.0 },
+          { "dataCode": "rnd", "value": 18752000000.0 },
+          { "dataCode": "costRev", "value": 169559000000.0 },
+          { "dataCode": "grossProfit", "value": 104956000000.0 },
+          { "dataCode": "opinc", "value": 66288000000.0 },
+          { "dataCode": "revenue", "value": 274515000000.0 },
+          { "dataCode": "opex", "value": 38668000000.0 },
+          { "dataCode": "eps", "value": 3.31 },
+          { "dataCode": "epsDil", "value": 3.28 },
+          { "dataCode": "ebit", "value": 69964000000.0 },
+          { "dataCode": "netinc", "value": 57411000000.0 },
+          { "dataCode": "ebt", "value": 67091000000.0 },
+          { "dataCode": "intexp", "value": 2873000000.0 }
+        ],
+        "overview": [{ "dataCode": "shareFactor", "value": 1.0 }]
+      }
+    },
+    {
+      "date": "2020-07-31",
+      "year": 2020,
+      "quarter": 3,
+      "statementData": {
+        "balanceSheet": [
+          { "dataCode": "totalAssets", "value": 317344000000.0 },
+          { "dataCode": "sharesBasic", "value": 17102536000.0 },
+          { "dataCode": "ppeq", "value": 35687000000.0 },
+          { "dataCode": "investmentsCurrent", "value": 59642000000.0 },
+          { "dataCode": "taxLiabilities", "value": 0.0 },
+          { "dataCode": "assetsNonCurrent", "value": 177279000000.0 },
+          { "dataCode": "taxAssets", "value": 0.0 },
+          { "dataCode": "debtCurrent", "value": 18675000000.0 },
+          { "dataCode": "retainedEarnings", "value": 24136000000.0 },
+          { "dataCode": "liabilitiesNonCurrent", "value": 149744000000.0 },
+          { "dataCode": "liabilitiesCurrent", "value": 95318000000.0 },
+          { "dataCode": "acctRec", "value": 32075000000.0 },
+          { "dataCode": "cashAndEq", "value": 33383000000.0 },
+          { "dataCode": "accoci", "value": -550000000.0 },
+          { "dataCode": "assetsCurrent", "value": 140065000000.0 },
+          { "dataCode": "investments", "value": 160234000000.0 },
+          { "dataCode": "intangibles", "value": 0.0 },
+          { "dataCode": "inventory", "value": 3978000000.0 },
+          { "dataCode": "deposits", "value": 0.0 },
+          { "dataCode": "investmentsNonCurrent", "value": 100592000000.0 },
+          { "dataCode": "deferredRev", "value": 6313000000.0 },
+          { "dataCode": "debt", "value": 112723000000.0 },
+          { "dataCode": "acctPay", "value": 35325000000.0 },
+          { "dataCode": "totalLiabilities", "value": 245062000000.0 },
+          { "dataCode": "debtNonCurrent", "value": 94048000000.0 },
+          { "dataCode": "equity", "value": 72282000000.0 }
+        ],
+        "incomeStatement": [
+          { "dataCode": "revenue", "value": 59685000000.0 },
+          { "dataCode": "epsDil", "value": 0.645 },
+          { "dataCode": "netinc", "value": 11253000000.0 },
+          { "dataCode": "shareswaDil", "value": 17419152000.0 },
+          { "dataCode": "eps", "value": 0.652 },
+          { "dataCode": "ebitda", "value": 16586000000.0 },
+          { "dataCode": "rnd", "value": 4758000000.0 },
+          { "dataCode": "sga", "value": 4831000000.0 },
+          { "dataCode": "opinc", "value": 13091000000.0 },
+          { "dataCode": "nonControllingInterests", "value": 0.0 },
+          { "dataCode": "grossProfit", "value": 22680000000.0 },
+          { "dataCode": "shareswa", "value": 17250292000.0 },
+          { "dataCode": "prefDVDs", "value": 0.0 },
+          { "dataCode": "opex", "value": 9589000000.0 },
+          { "dataCode": "ebt", "value": 13137000000.0 },
+          { "dataCode": "taxExp", "value": 1884000000.0 },
+          { "dataCode": "costRev", "value": 37005000000.0 },
+          { "dataCode": "netIncDiscOps", "value": 0.0 },
+          { "dataCode": "ebit", "value": 13834000000.0 },
+          { "dataCode": "netIncComStock", "value": 11253000000.0 },
+          { "dataCode": "intexp", "value": 697000000.0 },
+          { "dataCode": "consolidatedIncome", "value": 11253000000.0 }
+        ],
+        "cashFlow": [
+          { "dataCode": "freeCashFlow", "value": 14706000000.0 },
+          { "dataCode": "issrepayDebt", "value": 2168000000.0 },
+          { "dataCode": "capex", "value": -1565000000.0 },
+          { "dataCode": "payDiv", "value": -3656000000.0 },
+          { "dataCode": "investmentsAcqDisposals", "value": -2998000000.0 },
+          { "dataCode": "ncff", "value": -19116000000.0 },
+          { "dataCode": "issrepayEquity", "value": -15891000000.0 },
+          { "dataCode": "ncfx", "value": 0.0 },
+          { "dataCode": "ncfo", "value": 16271000000.0 },
+          { "dataCode": "sbcomp", "value": 1698000000.0 },
+          { "dataCode": "businessAcqDisposals", "value": -339000000.0 },
+          { "dataCode": "depamor", "value": 2752000000.0 },
+          { "dataCode": "ncf", "value": -8010000000.0 },
+          { "dataCode": "ncfi", "value": -5165000000.0 }
+        ],
+        "overview": [{ "dataCode": "shareFactor", "value": 1.0 }]
+      }
+    },
+    {
+      "date": "2020-05-01",
+      "year": 2020,
+      "quarter": 2,
+      "statementData": {
+        "balanceSheet": [
+          { "dataCode": "taxLiabilities", "value": 0.0 },
+          { "dataCode": "acctRec", "value": 30677000000.0 },
+          { "dataCode": "cashAndEq", "value": 40174000000.0 },
+          { "dataCode": "accoci", "value": -2789000000.0 },
+          { "dataCode": "assetsCurrent", "value": 143753000000.0 },
+          { "dataCode": "investmentsCurrent", "value": 53877000000.0 },
+          { "dataCode": "debtNonCurrent", "value": 89086000000.0 },
+          { "dataCode": "investments", "value": 152670000000.0 },
+          { "dataCode": "intangibles", "value": 0.0 },
+          { "dataCode": "sharesBasic", "value": 17337340000.0 },
+          { "dataCode": "inventory", "value": 3334000000.0 },
+          { "dataCode": "deposits", "value": 0.0 },
+          { "dataCode": "investmentsNonCurrent", "value": 98793000000.0 },
+          { "dataCode": "totalAssets", "value": 320400000000.0 },
+          { "dataCode": "deferredRev", "value": 5928000000.0 },
+          { "dataCode": "equity", "value": 78425000000.0 },
+          { "dataCode": "debt", "value": 109507000000.0 },
+          { "dataCode": "ppeq", "value": 35889000000.0 },
+          { "dataCode": "acctPay", "value": 32421000000.0 },
+          { "dataCode": "taxAssets", "value": 0.0 },
+          { "dataCode": "assetsNonCurrent", "value": 176647000000.0 },
+          { "dataCode": "debtCurrent", "value": 20421000000.0 },
+          { "dataCode": "retainedEarnings", "value": 33182000000.0 },
+          { "dataCode": "liabilitiesNonCurrent", "value": 145881000000.0 },
+          { "dataCode": "totalLiabilities", "value": 241975000000.0 },
+          { "dataCode": "liabilitiesCurrent", "value": 96094000000.0 }
+        ],
+        "incomeStatement": [
+          { "dataCode": "shareswaDil", "value": 17618764000.0 },
+          { "dataCode": "shareswa", "value": 17440404000.0 },
+          { "dataCode": "sga", "value": 4952000000.0 },
+          { "dataCode": "prefDVDs", "value": 0.0 },
+          { "dataCode": "rnd", "value": 4565000000.0 },
+          { "dataCode": "opex", "value": 9517000000.0 },
+          { "dataCode": "ebit", "value": 13892000000.0 },
+          { "dataCode": "epsDil", "value": 0.637 },
+          { "dataCode": "ebt", "value": 13135000000.0 },
+          { "dataCode": "netIncComStock", "value": 11249000000.0 },
+          { "dataCode": "revenue", "value": 58313000000.0 },
+          { "dataCode": "taxExp", "value": 1886000000.0 },
+          { "dataCode": "ebitda", "value": 16678000000.0 },
+          { "dataCode": "netinc", "value": 11249000000.0 },
+          { "dataCode": "costRev", "value": 35943000000.0 },
+          { "dataCode": "intexp", "value": 757000000.0 },
+          { "dataCode": "eps", "value": 0.645 },
+          { "dataCode": "nonControllingInterests", "value": 0.0 },
+          { "dataCode": "grossProfit", "value": 22370000000.0 },
+          { "dataCode": "netIncDiscOps", "value": 0.0 },
+          { "dataCode": "opinc", "value": 12853000000.0 },
+          { "dataCode": "consolidatedIncome", "value": 11249000000.0 }
+        ],
+        "cashFlow": [
+          { "dataCode": "investmentsAcqDisposals", "value": 11338000000.0 },
+          { "dataCode": "ncfi", "value": 9013000000.0 },
+          { "dataCode": "payDiv", "value": -3375000000.0 },
+          { "dataCode": "depamor", "value": 2786000000.0 },
+          { "dataCode": "capex", "value": -1853000000.0 },
+          { "dataCode": "issrepayDebt", "value": 803000000.0 },
+          { "dataCode": "freeCashFlow", "value": 11458000000.0 },
+          { "dataCode": "ncf", "value": 1384000000.0 },
+          { "dataCode": "issrepayEquity", "value": -18146000000.0 },
+          { "dataCode": "ncfx", "value": 0.0 },
+          { "dataCode": "ncfo", "value": 13311000000.0 },
+          { "dataCode": "ncff", "value": -20940000000.0 },
+          { "dataCode": "sbcomp", "value": 1697000000.0 },
+          { "dataCode": "businessAcqDisposals", "value": -176000000.0 }
+        ],
+        "overview": [{ "dataCode": "shareFactor", "value": 1.0 }]
+      }
+    }
+  ]
+}

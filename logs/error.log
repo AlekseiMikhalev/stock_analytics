@@ -27,3 +27,6 @@ Log: [d65361a9-045a-443d-9885-b79111f1d26c: 2023-03-25T12:48:54.820025+0300 - ER
 Log: [142bdb3b-948c-42f4-954e-1a9392337b31: 2023-03-25T12:50:40.558651+0300 - ERROR - Request to /data-fetching/stock-data/1 failed: {ex}
 Log: [dd959e25-3820-4a8d-844e-32f2719bb8ad: 2023-03-25T12:51:00.890658+0300 - ERROR - Request to /data-fetching/stock-data/1 failed: {ex}
 Log: [64664ac8-70de-43bd-96a9-6dbd73ad4968: 2023-03-25T12:54:41.895960+0300 - ERROR - Request to /data-fetching/stock-data/1 failed: {ex}
+Log: [c5a26fee-ffbf-48cf-8f2b-7d04c11e9d51: 2023-03-26T13:16:33.692612+0300 - ERROR - Request to /data-fetching/stock-data/SHEL failed: {ex}
+Log: [18aefe28-bf5f-41db-b938-c6418313cd68: 2023-03-26T13:18:05.948842+0300 - ERROR - Request to /data-fetching/stock-data/0 failed: {ex}
+Log: [d024c9fe-7bb5-4c26-952a-6d6013bed532: 2023-03-26T13:35:55.956830+0300 - ERROR - Request to /data-fetching/stock-data/symbols/AAPL failed: {ex}

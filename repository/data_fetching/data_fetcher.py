@@ -6,6 +6,7 @@ from sqlalchemy.future import select
 from sqlalchemy.orm import Session
 from models.data.data_fetching_models import StockData
 from configuration.config import DataFetchingService
+import json
 
 API_CONFIG = DataFetchingService().data_source_api_config
 
@@ -17,15 +18,16 @@ class DataFetcher:
 
     async def fetch_stock_data(self, stock_symbol: str, *args, **kwargs):
         client = TiingoClient(self.api_config)
+        dictionary = {}
 
         # Get ticker metadata
         ticker_metadata = client.get_ticker_metadata(stock_symbol)
-        print(f'TICKET_METADATA: {ticker_metadata}')
+        dictionary['TICKER_METADATA'] = ticker_metadata
 
         # Get latest prices, based on 3+ sources as JSON, sampled weekly
         ticker_price = client.get_ticker_price(
             stock_symbol, frequency="weekly")
-        print(f'TICKET_PRICE: {ticker_price}')
+        dictionary['TICKER_PRICE'] = ticker_price
 
         # Get historical GOOGL prices from August 2017 as JSON, sampled daily
         historical_prices = client.get_ticker_price(stock_symbol,
@@ -33,7 +35,7 @@ class DataFetcher:
                                                     startDate='2017-08-01',
                                                     endDate='2017-08-31',
                                                     frequency='daily')
-        print(f'TICKET_HISTORICAL_PRICES: {historical_prices}')
+        dictionary['TICKER_HISTORICAL_PRICES'] = historical_prices
 
         # # Get news articles about given tickers or search terms from given domains
         # TODO: News are not allowed in free version of Tiingo API
@@ -44,14 +46,14 @@ class DataFetcher:
         # Get definitions for fields available in the fundamentals-api, ticker is
         # optional
         definitions = client.get_fundamentals_definitions(stock_symbol)
-        print(f'TICKET_DEFINITIONS: {definitions}')
+        dictionary['TICKER_DEFINITIONS'] = definitions
 
         # Get fundamentals which require daily-updated (like marketCap). A start-
         # and end-date can be passed. If omited, will get all available data.
         fundamentals_daily = client.get_fundamentals_daily(stock_symbol,
                                                            startDate='2021-01-01',
                                                            endDate='2021-12-31')
-        print(f'FUNDAMENTALS_DAILY: {fundamentals_daily}')
+        dictionary['FUNDAMENTALS_DAILY'] = fundamentals_daily
 
         # Get fundamentals based on quarterly statements. Accepts time-range like
         # daily-fundamentals. asReported can be set to get the data exactly like
@@ -61,7 +63,14 @@ class DataFetcher:
                                                                  startDate='2020-01-01',
                                                                  endDate='2020-12-31',
                                                                  asReported=True)
-        print(f'FUNDAMENTALS_STMNTS: {fundamentals_stmnts}')
+        dictionary['FUNDAMENTALS_STMNTS'] = fundamentals_stmnts
+
+        # convert dictionary to JSON string
+        json_data = json.dumps(dictionary)
+
+        # write the JSON string to a file
+        with open('data.json', 'w') as f:
+            f.write(json_data)
 
     async def insert_stock_data(self, stock_data: StockData) -> bool:
         try:

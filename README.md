@@ -14,7 +14,7 @@ The Stock Data Analytics Platform has the following features:
 
 ## Architecture
 
-[TODO]
+![image](platform.svg)
 
 ## Getting Started
 

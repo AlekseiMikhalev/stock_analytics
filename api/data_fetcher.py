@@ -35,20 +35,20 @@ async def list_stock_data():
             return await data_fetcher.get_all_stock_data()
 
 
+@router.get('/stock-data/symbols/{stock_symbol}')
+async def fetch_stock_data_from_source(stock_symbol: str):
+    async with AsyncSessionFactory() as session:
+        async with session.begin():
+            data_fetcher = DataFetcher(session)
+            return await data_fetcher.fetch_stock_data(stock_symbol)
+
+
 @router.get('/stock-data/{id}')
 async def get_one_stock_data(id: int):
     async with AsyncSessionFactory() as session:
         async with session.begin():
             data_fetcher = DataFetcher(session)
             return await data_fetcher.get_one_stock_data(id)
-
-
-@router.get('/stock-data/{stock_symbol}')
-async def fetch_stock_data_from_source(stock_symbol: str):
-    async with AsyncSessionFactory() as session:
-        async with session.begin():
-            data_fetcher = DataFetcher(session)
-            return await data_fetcher.fetch_stock_data(stock_symbol)
 
 
 @router.post('/stock-data')

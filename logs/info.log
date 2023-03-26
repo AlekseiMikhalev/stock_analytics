@@ -181,3 +181,58 @@ Log: [a279be9c-ec5f-4abd-988d-7a8e3375e60b: 2023-03-26T07:02:16.844775+0300 - IN
 Log: [a279be9c-ec5f-4abd-988d-7a8e3375e60b: 2023-03-26T07:02:16.852229+0300 - INFO - Successfully accessed /openapi.json
 Log: [e51de9f8-c4e3-459e-abad-dc1ee3e6cb8f: 2023-03-26T07:02:26.347728+0300 - INFO - Request to access /data-fetching/stock-data/list
 Log: [e51de9f8-c4e3-459e-abad-dc1ee3e6cb8f: 2023-03-26T07:02:26.431722+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [cc1dde83-d44e-4065-8ab4-e603d93bc589: 2023-03-26T12:51:54.082459+0300 - INFO - Request to access /data-fetching/stock-data/AAPL
+Log: [cc1dde83-d44e-4065-8ab4-e603d93bc589: 2023-03-26T12:51:54.084727+0300 - INFO - Successfully accessed /data-fetching/stock-data/AAPL
+Log: [8aa6a8be-ed56-48f2-938f-918240302f26: 2023-03-26T12:55:59.988857+0300 - INFO - Request to access /data-fetching/stock-data/AAPL
+Log: [8aa6a8be-ed56-48f2-938f-918240302f26: 2023-03-26T12:55:59.990860+0300 - INFO - Successfully accessed /data-fetching/stock-data/AAPL
+Log: [b4ab1074-ac66-483e-aba1-6b905f3adf60: 2023-03-26T12:57:04.646219+0300 - INFO - Request to access /data-fetching/stock-data/AAPL
+Log: [b4ab1074-ac66-483e-aba1-6b905f3adf60: 2023-03-26T12:57:04.648354+0300 - INFO - Successfully accessed /data-fetching/stock-data/AAPL
+Log: [ec5e5bfe-553d-419b-9ae4-b4f8b33c2219: 2023-03-26T12:57:27.410699+0300 - INFO - Request to access /data-fetching/stock-data/AAPL
+Log: [ec5e5bfe-553d-419b-9ae4-b4f8b33c2219: 2023-03-26T12:57:27.412689+0300 - INFO - Successfully accessed /data-fetching/stock-data/AAPL
+Log: [a0b4215d-329f-4ec1-b843-99ce2b7a96ca: 2023-03-26T12:58:12.251387+0300 - INFO - Request to access /data-fetching/stock-data/AAPL
+Log: [a0b4215d-329f-4ec1-b843-99ce2b7a96ca: 2023-03-26T12:58:12.253291+0300 - INFO - Successfully accessed /data-fetching/stock-data/AAPL
+Log: [7de3e458-195d-4750-893a-f6e01183e379: 2023-03-26T13:00:17.623328+0300 - INFO - Request to access /data-fetching/stock-data/AAPL
+Log: [7de3e458-195d-4750-893a-f6e01183e379: 2023-03-26T13:00:17.625811+0300 - INFO - Successfully accessed /data-fetching/stock-data/AAPL
+Log: [e9e88ea6-2008-4544-9538-9d5f7f5e4050: 2023-03-26T13:01:10.893851+0300 - INFO - Request to access /data-fetching/stock-data/AAPL
+Log: [e9e88ea6-2008-4544-9538-9d5f7f5e4050: 2023-03-26T13:01:10.896068+0300 - INFO - Successfully accessed /data-fetching/stock-data/AAPL
+Log: [9b07e521-fe68-4d3b-b196-f81f2c27132e: 2023-03-26T13:06:36.536733+0300 - INFO - Request to access /data-fetching/stock-data/SHEL
+Log: [9b07e521-fe68-4d3b-b196-f81f2c27132e: 2023-03-26T13:06:36.539058+0300 - INFO - Successfully accessed /data-fetching/stock-data/SHEL
+Log: [6f2e8598-6cd6-434c-b3c5-920b89ab2794: 2023-03-26T13:11:22.477894+0300 - INFO - Request to access /data-fetching/stock-data/SHEL
+Log: [6f2e8598-6cd6-434c-b3c5-920b89ab2794: 2023-03-26T13:11:22.478806+0300 - INFO - Successfully accessed /data-fetching/stock-data/SHEL
+Log: [58efe8da-565d-49be-8a16-6082f021db07: 2023-03-26T13:11:39.473788+0300 - INFO - Request to access /data-fetching/stock-data/SHEL
+Log: [58efe8da-565d-49be-8a16-6082f021db07: 2023-03-26T13:11:39.476674+0300 - INFO - Successfully accessed /data-fetching/stock-data/SHEL
+Log: [ba350de2-cc75-46f9-aa24-1acf1882788e: 2023-03-26T13:14:04.797955+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [ba350de2-cc75-46f9-aa24-1acf1882788e: 2023-03-26T13:14:04.874869+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [c5a26fee-ffbf-48cf-8f2b-7d04c11e9d51: 2023-03-26T13:16:32.188087+0300 - INFO - Request to access /data-fetching/stock-data/SHEL
+Log: [c5a26fee-ffbf-48cf-8f2b-7d04c11e9d51: 2023-03-26T13:16:33.692612+0300 - ERROR - Request to /data-fetching/stock-data/SHEL failed: {ex}
+Log: [c5a26fee-ffbf-48cf-8f2b-7d04c11e9d51: 2023-03-26T13:16:33.693741+0300 - INFO - Successfully accessed /data-fetching/stock-data/SHEL
+Log: [872a4115-c336-4efb-a540-0147632d99f4: 2023-03-26T13:17:31.689933+0300 - INFO - Request to access /docs
+Log: [872a4115-c336-4efb-a540-0147632d99f4: 2023-03-26T13:17:31.691284+0300 - INFO - Successfully accessed /docs
+Log: [e85e3d37-e228-4dab-9171-cd30d858b0c6: 2023-03-26T13:17:31.975763+0300 - INFO - Request to access /openapi.json
+Log: [e85e3d37-e228-4dab-9171-cd30d858b0c6: 2023-03-26T13:17:31.987343+0300 - INFO - Successfully accessed /openapi.json
+Log: [eb165d70-02e8-46ac-a52e-86c66b4a421c: 2023-03-26T13:17:53.531867+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [eb165d70-02e8-46ac-a52e-86c66b4a421c: 2023-03-26T13:17:53.600656+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [18aefe28-bf5f-41db-b938-c6418313cd68: 2023-03-26T13:18:05.258176+0300 - INFO - Request to access /data-fetching/stock-data/0
+Log: [18aefe28-bf5f-41db-b938-c6418313cd68: 2023-03-26T13:18:05.948842+0300 - ERROR - Request to /data-fetching/stock-data/0 failed: {ex}
+Log: [18aefe28-bf5f-41db-b938-c6418313cd68: 2023-03-26T13:18:05.950512+0300 - INFO - Successfully accessed /data-fetching/stock-data/0
+Log: [e928973f-d55d-4d57-aa17-d1a53c9bc63a: 2023-03-26T13:18:28.957756+0300 - INFO - Request to access /data-fetching/stock-data/AAPL
+Log: [e928973f-d55d-4d57-aa17-d1a53c9bc63a: 2023-03-26T13:18:31.061772+0300 - INFO - Successfully accessed /data-fetching/stock-data/AAPL
+Log: [2e55f1da-4659-4a10-af57-a58fd3369af6: 2023-03-26T13:24:50.936415+0300 - INFO - Request to access /docs
+Log: [2e55f1da-4659-4a10-af57-a58fd3369af6: 2023-03-26T13:24:50.938221+0300 - INFO - Successfully accessed /docs
+Log: [b959fb53-5a20-48df-9297-1a99e28f3a9a: 2023-03-26T13:24:51.170464+0300 - INFO - Request to access /openapi.json
+Log: [b959fb53-5a20-48df-9297-1a99e28f3a9a: 2023-03-26T13:24:51.178749+0300 - INFO - Successfully accessed /openapi.json
+Log: [0b39328d-9028-41ee-882a-c291ccadb1f1: 2023-03-26T13:25:08.254555+0300 - INFO - Request to access /data-fetching/stock-data/symbols/AAPL
+Log: [0b39328d-9028-41ee-882a-c291ccadb1f1: 2023-03-26T13:25:15.383448+0300 - INFO - Successfully accessed /data-fetching/stock-data/symbols/AAPL
+Log: [3aacbe18-281f-450d-8fb3-75f68c757f4d: 2023-03-26T13:25:26.577640+0300 - INFO - Request to access /data-fetching/stock-data/0
+Log: [3aacbe18-281f-450d-8fb3-75f68c757f4d: 2023-03-26T13:25:26.646613+0300 - INFO - Successfully accessed /data-fetching/stock-data/0
+Log: [04359a03-a646-4ed2-8950-c6b0c179261f: 2023-03-26T13:25:40.047673+0300 - INFO - Request to access /data-fetching/stock-data/list
+Log: [04359a03-a646-4ed2-8950-c6b0c179261f: 2023-03-26T13:25:40.055864+0300 - INFO - Successfully accessed /data-fetching/stock-data/list
+Log: [d024c9fe-7bb5-4c26-952a-6d6013bed532: 2023-03-26T13:35:48.926085+0300 - INFO - Request to access /data-fetching/stock-data/symbols/AAPL
+Log: [d024c9fe-7bb5-4c26-952a-6d6013bed532: 2023-03-26T13:35:55.956830+0300 - ERROR - Request to /data-fetching/stock-data/symbols/AAPL failed: {ex}
+Log: [d024c9fe-7bb5-4c26-952a-6d6013bed532: 2023-03-26T13:35:55.958656+0300 - INFO - Successfully accessed /data-fetching/stock-data/symbols/AAPL
+Log: [9171984c-a9d8-406d-96c6-43d6333043ab: 2023-03-26T13:36:44.644941+0300 - INFO - Request to access /data-fetching/stock-data/symbols/AAPL
+Log: [9171984c-a9d8-406d-96c6-43d6333043ab: 2023-03-26T13:36:46.610700+0300 - INFO - Successfully accessed /data-fetching/stock-data/symbols/AAPL
+Log: [5c830484-3c67-407c-9a40-fefe904bab89: 2023-03-26T13:42:24.182740+0300 - INFO - Request to access /data-fetching/stock-data/symbols/AAPL
+Log: [5c830484-3c67-407c-9a40-fefe904bab89: 2023-03-26T13:42:26.295715+0300 - INFO - Successfully accessed /data-fetching/stock-data/symbols/AAPL
+Log: [3f8c387c-33b6-465d-adcd-47c6acb46358: 2023-03-26T14:00:13.444751+0300 - INFO - Request to access /data-fetching/stock-data/symbols/AAPL
+Log: [3f8c387c-33b6-465d-adcd-47c6acb46358: 2023-03-26T14:00:15.523523+0300 - INFO - Successfully accessed /data-fetching/stock-data/symbols/AAPL
